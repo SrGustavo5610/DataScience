@@ -1,0 +1,4 @@
+Etapa / Variable,Decisión tomada,Registros afectados,Fundamentación metodológica
+Años de estudio (jefes),Reemplazo de códigos '99' (No responde) por valores nulos (np.nan),2,Evitar sesgos matemáticos en promedios y modelos predictivos.
+Ingresos (IPCM),Conversión tipográfica robusta y manejo de comas decimales,17092,Asegurar formato numérico continuo estándar para análisis bivariado.
+Estructura de Hogares,Filtro estricto de jefatura (P03 == 1) y merge por UPM/NVIVI/NHOGA,17092,Evitar duplicación artificial de filas al unificar fuentes a nivel de hogar.
