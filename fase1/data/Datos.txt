@@ -1,0 +1,16 @@
+Institución Generadora: Instituto Nacional de Estadística (INE) de la República del Paraguay.
+- Operativo Estadístico: Encuesta Permanente de Hogares Continua (EPHC) Anual 2025, con enfoque en el módulo de Tecnologías de la Información y Comunicación (TIC), características de la vivienda, personas e ingresos.
+- Enlace al Portal de Microdatos (Fuente de descarga):
+  https://www.ine.gov.py/microdatos/ (Seleccionar la carpeta EPHC_2025_ANUAL).
+- Catálogo de Documentación Técnica (Red ANDA - INE):
+
+----------------------------------------------------------------------
+AVISO DE REPRODUCIBILIDAD (REQUISITO TÉCNICO DE CÁTEDRA)
+----------------------------------------------------------------------
+Debido a que los archivos microdatos originales superan el límite de 25 MB establecido por la normativa de la materia, estos no se encuentran alojados en el control de versiones de Git. 
+
+Para reproducir el pipeline de limpieza y análisis:
+1. Ingrese al enlace del Portal de Microdatos del INE provisto arriba.
+2. Descargue y descomprima los archivos correspondientes (módulos REG01, REG02 e INGREFAM).
+3. Colóquelos dentro de la carpeta /data del proyecto.
+4. Ejecute secuencialmente el notebook ubicado en /notebooks.
