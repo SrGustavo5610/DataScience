@@ -1,0 +1,6 @@
+﻿Hipotesis,Prueba,Supuestos,Estadistico,p_original,p_Bonferroni,IC95,Tamano_efecto,Decision
+H1 Area e Internet,Chi-cuadrado de independencia,Independencia; frecuencias esperadas adecuadas,chi2=2964.350; gl=1,<1e-300,<1e-300,"Clasico [0.3945, 0.4220]; Bootstrap [0.3944, 0.4218]",V de Cramer=0.416,Rechazar H0
+H2 Educacion e Internet,Chi-cuadrado de independencia,Independencia; frecuencias esperadas adecuadas,chi2=2770.564; gl=3,<1e-300,<1e-300,"V de Cramer bootstrap [0.390, 0.415]",V de Cramer=0.403,Rechazar H0
+H3 Ingreso e Internet,U de Mann-Whitney,No normalidad; Levene no homogeneo; independencia de diseno,U=53178983; Z=60.107,<1e-300,<1e-300,"Diferencia de medianas bootstrap [1070549, 1145873] Gs.",r=0.460; rb=0.547,Rechazar H0
+H4 Educacion e ingreso,Correlacion de Spearman,Monotonicidad; independencia; no requiere normalidad bivariada,rho=0.451; n=17090,<1e-300,<1e-300,"rho bootstrap [0.439, 0.464]",rho=0.451,Rechazar H0
+H5 Tamano del hogar e Internet,U de Mann-Whitney,No normalidad; Levene no homogeneo; independencia de diseno,U=35881248; Z=4.912,9.003669e-07,4.501835e-06,"Diferencia de medias bootstrap [0.074, 0.180]",r=0.038,Rechazar H0
