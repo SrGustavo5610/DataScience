@@ -1,0 +1,14 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
