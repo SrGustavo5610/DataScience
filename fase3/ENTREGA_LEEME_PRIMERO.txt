@@ -1,0 +1,10 @@
+ENTREGA FASE 3 - ACCESO A INTERNET EN HOGARES PARAGUAYOS
+
+1. Abra README.md para consultar instalación, reproducción y uso.
+2. La única notebook incluida es notebooks/Fase3_AccesoInternet_ejecutado.ipynb. Está ejecutada de principio a fin y conserva las salidas y los gráficos.
+3. Su exportación HTML está en output/Fase3_AccesoInternet.html.
+4. Los informes de Fase 3 y el informe integrador de tres fases se incluyen en DOCX editable y PDF, dentro de informe/. La guía de código también está en ambos formatos.
+5. El código auxiliar está en src/: modelado_fase3.py contiene las funciones utilizadas por la notebook y el pipeline; predecir_internet.py aplica el modelo a un CSV nuevo.
+6. El modelo serializado está en output/modelo_acceso_internet.joblib. Modelo seleccionado: HistGradientBoosting. En prueba: F1 = 0,8450 y AUC-ROC = 0,8695; línea base: F1 = 0,7664 y AUC-ROC = 0,5000.
+7. Atención: las métricas son no ponderadas y no incorporan el diseño muestral complejo de la EPHC. Se detectaron diferencias de error entre área urbana y rural; el modelo no debe usarse para decisiones individuales o para negar servicios.
+
