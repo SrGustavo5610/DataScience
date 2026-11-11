@@ -1,0 +1,13 @@
+Archivo analítico: dataset_limpio_internet_hogares.csv
+Dimensiones: 17.092 hogares x 21 variables.
+Unidad de análisis: hogar. Variable objetivo: TIENE_INTERNET (1 = sí; 0 = no).
+
+Fuente: Instituto Nacional de Estadística (INE), Paraguay. Encuesta Permanente de Hogares Continua (EPHC), base anual 2025.
+Portal de microdatos: https://www.ine.gov.py/microdatos/ (seleccionar la carpeta EPHC_2025_ANUAL).
+Versión/corte: base anual 2025, provista por la cátedra. Fecha de obtención registrada en el informe de Fase 1: septiembre de 2026.
+Relación con Fase 2: el archivo tiene el mismo contenido que el dataset limpio utilizado en fase2/; se conserva también en esta carpeta para que Fase 3 sea reproducible de forma autónoma. Solo se normalizaron los finales de línea a LF para ajustarlo al objeto Git ya existente.
+Documentación técnica: Catálogo ANDA del INE, https://anda.ine.gov.py.
+Licencia/uso según la documentación de Fase 1: microdatos públicos y anonimizados de estadística oficial, bajo la Licencia de Uso de la Información Pública del Gobierno Paraguayo; uso exclusivamente académico y análisis agregado. El grupo debe verificar las condiciones vigentes antes de redistribuir el CSV limpio.
+
+Archivos originales descritos en Fase 1: REG01_EPHC_ANUAL_2025.csv, REG02_EPHC_ANUAL_2025.csv, INGREFAM_EPHC_ANUAL_2025.csv y diccionario_EPHC_ANUAL_2025.xls.
+Archivo utilizado en esta fase: dataset_limpio_internet_hogares.csv. FACTOR está disponible, pero no se incorporó como ponderador ni predictor; las métricas predictivas son no ponderadas.
