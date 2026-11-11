@@ -1,0 +1,4 @@
+modelo,f1_cv,mejores_parametros
+HistGradientBoosting,0.840709748292383,"{'model__learning_rate': 0.1, 'model__max_iter': 100, 'model__max_leaf_nodes': 15}"
+Random Forest,0.8275030839289746,"{'model__max_depth': None, 'model__min_samples_leaf': 2}"
+Regresión logística,0.8121874705849351,{'model__C': 10.0}

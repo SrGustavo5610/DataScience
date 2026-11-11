@@ -1,0 +1,42 @@
+{
+  "tema": "Factores asociados al acceso a internet en hogares paraguayos",
+  "fuente": "EPHC Anual 2025 - INE Paraguay (según documentación del proyecto)",
+  "unidad_analisis": "Hogar",
+  "filas_modelado": 17092,
+  "predictores": [
+    "AREA_DESC",
+    "DPTO_NOMBRE",
+    "TOTAL",
+    "EDAD_JEFE",
+    "SEXO_JEFE_DESC",
+    "ANIOS_ESTUDIO_JEFE",
+    "CAT_OCUP_JEFE_DESC",
+    "IPCM"
+  ],
+  "variable_objetivo": "TIENE_INTERNET",
+  "distribucion_objetivo": {
+    "0": 6474,
+    "1": 10618
+  },
+  "particiones": {
+    "entrenamiento": 10255,
+    "validacion": 3418,
+    "prueba": 3419
+  },
+  "semilla": 42,
+  "folds_cv": 3,
+  "modelo_seleccionado": "HistGradientBoosting",
+  "criterio_seleccion": "Mayor F1 en validación; AUC-ROC como desempate",
+  "metricas_prueba": {
+    "accuracy": 0.8022813688212928,
+    "precision": 0.8237924865831843,
+    "recall": 0.867231638418079,
+    "f1": 0.844954128440367,
+    "auc_roc": 0.8694711660813357
+  },
+  "advertencias": [
+    "No se incorporó el diseño muestral complejo ni FACTOR como ponderador.",
+    "Los resultados describen capacidad predictiva y no causalidad.",
+    "Evaluación interna en EPHC 2025; no existe validación externa en otra encuesta/año."
+  ]
+}

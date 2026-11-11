@@ -1,0 +1,677 @@
+AREA_DESC,DPTO_NOMBRE,TOTAL,EDAD_JEFE,SEXO_JEFE_DESC,ANIOS_ESTUDIO_JEFE,CAT_OCUP_JEFE_DESC,IPCM,TIENE_INTERNET_REAL,TIENE_INTERNET_PREDICHO,PROBABILIDAD_INTERNET,ERROR
+Urbana,Central,2,81,Mujer,16.0,Inactivo/No aplica,4668586.86542145,0,1,0.9073541521194024,True
+Rural,Misiones,4,37,Hombre,12.0,Empleado/a privado/a,1284193.44802343,0,1,0.6136987462597052,True
+Rural,Caazapá,1,37,Hombre,6.0,Cuenta propia,1173255.82107843,1,0,0.41708185885754556,True
+Urbana,Central,4,34,Mujer,12.0,Doméstico/a,1439676.0,0,1,0.7861306674674118,True
+Urbana,Concepción,5,34,Mujer,9.0,Doméstico/a,460000.0,1,0,0.3121117242842767,True
+Urbana,Central,4,34,Mujer,10.0,Cuenta propia,1023159.96697775,0,1,0.7363301108498783,True
+Rural,Misiones,4,61,Hombre,12.0,Cuenta propia,1044191.66666667,1,0,0.4195412888733648,True
+Urbana,San Pedro,1,70,Mujer,6.0,Cuenta propia,1692256.49605169,0,1,0.6212984963238544,True
+Rural,Caaguazú,1,64,Mujer,5.0,Cuenta propia,1412962.56299496,0,1,0.52625961183945,True
+Rural,Caazapá,4,71,Mujer,1.0,Cuenta propia,792866.82535971,1,0,0.19649756019300305,True
+Rural,Itapúa,5,45,Hombre,12.0,Cuenta propia,641438.6,1,0,0.28486042900656006,True
+Urbana,Central,4,77,Hombre,6.0,Inactivo/No aplica,929788.5,0,1,0.6096100689603887,True
+Rural,Concepción,5,57,Hombre,15.0,Cuenta propia,667282.647796934,1,0,0.33464130364437505,True
+Urbana,Caaguazú,3,47,Mujer,12.0,Cuenta propia,1158713.64383816,0,1,0.7857518622972766,True
+Urbana,San Pedro,4,67,Mujer,2.0,Cuenta propia,927700.428160918,1,0,0.37521384520455514,True
+Rural,Itapúa,3,33,Hombre,8.0,Empleado/a privado/a,1607740.90165112,1,0,0.4376493015747793,True
+Rural,Itapúa,2,59,Mujer,7.0,Cuenta propia,2365861.94544364,1,0,0.46378700296409503,True
+Urbana,Central,2,58,Mujer,9.0,Cuenta propia,2850000.0,0,1,0.8528389063494974,True
+Rural,San Pedro,1,26,Mujer,14.0,Doméstico/a,1806512.30101303,0,1,0.8600527895639859,True
+Urbana,Caazapá,3,57,Mujer,6.0,Doméstico/a,1759057.19071549,0,1,0.7588327701224317,True
+Rural,San Pedro,2,64,Hombre,6.0,Cuenta propia,1001722.22222222,1,0,0.1279260765829964,True
+Rural,Paraguarí,4,30,Hombre,6.0,Empleado/a privado/a,705214.916666667,1,0,0.09723705298183467,True
+Urbana,Asunción,2,42,Hombre,18.0,Empleado/a privado/a,3310542.82613391,0,1,0.9304101305208541,True
+Rural,Pdte. Hayes / Resto,2,29,Hombre,2.0,Empleado/a privado/a,2649000.0,1,0,0.43258065852581556,True
+Urbana,Caaguazú,5,43,Hombre,12.0,Empleado/a privado/a,835449.194729138,0,1,0.7434011979662772,True
+Rural,Itapúa,1,79,Hombre,6.0,Inactivo/No aplica,1895477.19352517,1,0,0.21939987716272158,True
+Rural,Central,2,24,Hombre,14.0,Empleado/a privado/a,3091143.27062229,0,1,0.7718683471601687,True
+Urbana,Guairá,4,75,Mujer,6.0,Inactivo/No aplica,1697341.00035997,0,1,0.8075183583837648,True
+Rural,Concepción,5,29,Mujer,10.0,Inactivo/No aplica,677349.05769784,1,0,0.24639055912787414,True
+Rural,Canindeyú,3,36,Mujer,6.0,Inactivo/No aplica,1078656.35096116,1,0,0.2765002214818435,True
+Urbana,Central,7,44,Mujer,12.0,Doméstico/a,913836.017569548,0,1,0.7883577182332944,True
+Urbana,Asunción,5,68,Hombre,7.0,Inactivo/No aplica,1509538.74170855,0,1,0.8890787256003219,True
+Urbana,Concepción,3,49,Mujer,3.0,Inactivo/No aplica,812298.682284043,1,0,0.21866382532492457,True
+Rural,Pdte. Hayes / Resto,1,19,Hombre,9.0,Empleado/a privado/a,3120000.0,0,1,0.8556854930113411,True
+Urbana,Guairá,3,27,Hombre,6.0,Cuenta propia,568374.611150995,1,0,0.22476782341428816,True
+Rural,Caazapá,4,35,Hombre,12.0,Empleado/a público/a,2481559.05491745,0,1,0.6762384383501925,True
+Rural,Pdte. Hayes / Resto,9,77,Hombre,0.0,Inactivo/No aplica,1528097.08477011,1,0,0.2658047245547992,True
+Rural,San Pedro,4,49,Hombre,15.0,Empleado/a público/a,3667697.97461685,0,1,0.7016871244112373,True
+Urbana,Cordillera,2,64,Mujer,6.0,Cuenta propia,1500000.0,1,0,0.48116421835067025,True
+Rural,Caaguazú,2,48,Hombre,6.0,Cuenta propia,1396978.41726618,1,0,0.21854798909143153,True
+Urbana,Central,3,91,Hombre,4.0,Inactivo/No aplica,1105931.82064176,1,0,0.3555712910880097,True
+Urbana,Central,2,58,Mujer,5.0,Empleado/a público/a,1986250.0,0,1,0.6336960496155835,True
+Rural,Alto Paraná,4,18,Hombre,11.0,Empleado/a privado/a,913596.5,0,1,0.6600676454892556,True
+Rural,Central,1,69,Hombre,6.0,Inactivo/No aplica,3686288.28951149,0,1,0.6881781200519484,True
+Rural,Misiones,3,33,Hombre,12.0,Empleado/a privado/a,1396564.33333333,0,1,0.5183796539871012,True
+Rural,Canindeyú,4,43,Hombre,8.0,Empleador/a,1591174.65836994,0,1,0.6768265865629257,True
+Rural,Misiones,3,72,Hombre,3.0,Cuenta propia,973317.984525807,1,0,0.14501663931300646,True
+Rural,Cordillera,6,58,Mujer,6.0,Inactivo/No aplica,1693182.51633987,0,1,0.561680691925417,True
+Urbana,Central,3,74,Mujer,6.0,Inactivo/No aplica,2024575.25723858,0,1,0.7980504193076168,True
+Urbana,Itapúa,5,48,Hombre,12.0,Cuenta propia,1665870.4,0,1,0.9020742157163315,True
+Urbana,Central,1,75,Hombre,5.0,Cuenta propia,3292455.61079136,0,1,0.658345389002702,True
+Urbana,Asunción,4,39,Mujer,15.0,Doméstico/a,2780557.66977747,0,1,0.9191310738568537,True
+Urbana,Alto Paraná,6,46,Mujer,12.0,Cuenta propia,354892.0,0,1,0.6794644844897222,True
+Urbana,Ñeembucú,2,59,Mujer,6.0,Inactivo/No aplica,1791167.20662347,1,0,0.46444265893068504,True
+Urbana,Amambay,2,78,Hombre,0.0,Cuenta propia,2504582.73381294,1,0,0.4652018072346635,True
+Urbana,Asunción,7,43,Hombre,12.0,Empleado/a público/a,963898.309821314,0,1,0.7894631933470188,True
+Urbana,San Pedro,1,72,Mujer,3.0,Inactivo/No aplica,1985705.03597122,1,0,0.4457301769076662,True
+Rural,Misiones,3,71,Hombre,1.0,Cuenta propia,1599011.30828748,1,0,0.18483403965372297,True
+Urbana,Itapúa,2,56,Hombre,6.0,Cuenta propia,500000.0,1,0,0.22974351530911755,True
+Urbana,Central,2,54,Hombre,12.0,Empleado/a privado/a,4200000.0,0,1,0.9042925883370648,True
+Urbana,Canindeyú,6,40,Hombre,7.0,Cuenta propia,998450.463640803,0,1,0.6875513936813944,True
+Rural,Itapúa,5,47,Mujer,6.0,Empleado/a público/a,1496714.15861071,0,1,0.6326650449747959,True
+Urbana,Cordillera,12,65,Hombre,2.0,Cuenta propia,556445.760654706,1,0,0.45061888707203157,True
+Rural,San Pedro,3,28,Mujer,8.0,Empleado/a privado/a,895382.42788577,1,0,0.24310565951224383,True
+Urbana,Misiones,3,46,Hombre,8.0,Empleado/a privado/a,2310549.77304066,0,1,0.8976530102158876,True
+Rural,Itapúa,9,55,Hombre,4.0,Cuenta propia,460433.976019183,1,0,0.1429697650929515,True
+Urbana,Itapúa,2,71,Hombre,6.0,Cuenta propia,1073208.18893678,1,0,0.4431516441177124,True
+Urbana,Caazapá,1,41,Hombre,4.0,Empleado/a privado/a,2891666.66666667,0,1,0.814940291586895,True
+Rural,San Pedro,5,56,Hombre,12.0,Cuenta propia,1541590.61746262,0,1,0.6418131781195215,True
+Rural,Cordillera,4,55,Hombre,10.0,Cuenta propia,1345369.69253295,0,1,0.589274738709056,True
+Urbana,Misiones,2,65,Mujer,3.0,Inactivo/No aplica,831080.166666667,1,0,0.2477317785458116,True
+Urbana,Itapúa,8,66,Hombre,6.0,Inactivo/No aplica,680150.268538518,0,1,0.5809260605075672,True
+Urbana,Cordillera,2,67,Mujer,6.0,Inactivo/No aplica,764889.705882352,1,0,0.31379630861581,True
+Urbana,Guairá,3,85,Hombre,9.0,Inactivo/No aplica,2079708.49220961,0,1,0.8015854125204319,True
+Urbana,Guairá,5,45,Hombre,4.0,Empleado/a privado/a,1145870.4,0,1,0.7065724231020395,True
+Urbana,Central,6,71,Hombre,1.0,Inactivo/No aplica,1315452.17896768,0,1,0.7968204573830076,True
+Rural,Guairá,3,78,Mujer,5.0,Inactivo/No aplica,861499.7032015,1,0,0.15563979148335313,True
+Rural,Caazapá,5,38,Hombre,6.0,Empleado/a privado/a,715215.582054994,1,0,0.23079839515890585,True
+Rural,Central,3,31,Hombre,10.0,Empleado/a privado/a,1209064.33333333,1,0,0.39583133295436346,True
+Urbana,Misiones,1,60,Hombre,12.0,Inactivo/No aplica,1121838.23529412,0,1,0.7125261466668041,True
+Urbana,Amambay,3,24,Mujer,9.0,Doméstico/a,744607.125427039,1,0,0.4311698612402631,True
+Rural,Central,3,39,Hombre,12.0,Cuenta propia,1054881.1517907,1,0,0.4718448496340003,True
+Rural,Itapúa,4,50,Hombre,4.0,Cuenta propia,4704700.10971222,0,1,0.7996680762818439,True
+Rural,Pdte. Hayes / Resto,2,47,Hombre,12.0,Cuenta propia,5267404.6076314,0,1,0.804865749791767,True
+Urbana,Alto Paraná,1,24,Hombre,12.0,Empleado/a privado/a,2494604.31654675,0,1,0.9027456048975059,True
+Rural,Concepción,5,66,Mujer,3.0,Cuenta propia,616907.003416302,1,0,0.1714212006237938,True
+Rural,Caazapá,1,61,Mujer,0.0,Cuenta propia,1013954.58363331,1,0,0.18002829098659395,True
+Urbana,Central,7,31,Hombre,11.0,Empleado/a privado/a,683594.332888937,0,1,0.7750303854114126,True
+Rural,Paraguarí,6,47,Hombre,12.0,Empleado/a privado/a,2033926.71568627,0,1,0.7320961425374019,True
+Rural,Canindeyú,3,57,Mujer,4.0,Inactivo/No aplica,1260888.88888889,1,0,0.36644404642495154,True
+Rural,Amambay,4,51,Hombre,8.0,Cuenta propia,2906798.25,0,1,0.7304419871783416,True
+Rural,Ñeembucú,4,31,Mujer,12.0,Cuenta propia,1528614.79676259,0,1,0.6352804299277031,True
+Urbana,Alto Paraná,2,16,Mujer,10.0,Empleado/a privado/a,2708095.03239741,0,1,0.8896353018114447,True
+Rural,Cordillera,1,70,Mujer,3.0,Inactivo/No aplica,1575777.0,0,1,0.5399005722885801,True
+Urbana,Alto Paraná,1,48,Hombre,10.0,Cuenta propia,1505426.91751086,0,1,0.8565781545505518,True
+Rural,Caazapá,4,68,Hombre,4.0,Cuenta propia,1896812.38890887,1,0,0.44460962441812873,True
+Rural,San Pedro,6,44,Hombre,6.0,Cuenta propia,193807.304655628,1,0,0.07610394293415801,True
+Rural,Pdte. Hayes / Resto,4,68,Mujer,0.0,Inactivo/No aplica,2553382.11719312,0,1,0.605531785170923,True
+Urbana,Central,4,43,Hombre,9.0,Empleado/a privado/a,1154967.4871979,0,1,0.7329325476202295,True
+Rural,Misiones,3,62,Hombre,3.0,Cuenta propia,1523978.0175642,1,0,0.3002602383713489,True
+Rural,Central,11,58,Mujer,3.0,Doméstico/a,744222.231506238,1,0,0.3275512323633361,True
+Rural,Misiones,4,45,Hombre,15.0,Empleado/a público/a,2405263.0,0,1,0.6904590549236075,True
+Urbana,Canindeyú,2,31,Mujer,13.0,Empleado/a privado/a,2760000.0,0,1,0.8877276475436867,True
+Urbana,Amambay,1,54,Mujer,6.0,Cuenta propia,2141691.17647059,0,1,0.8463063738981581,True
+Rural,Alto Paraná,5,40,Hombre,11.0,Empleado/a público/a,645438.6,0,1,0.6364453543883104,True
+Urbana,Guairá,3,91,Mujer,2.0,Inactivo/No aplica,4480445.83509191,0,1,0.7231388778906397,True
+Urbana,Cordillera,2,68,Hombre,9.0,Cuenta propia,1775887.99414349,0,1,0.5572440016780125,True
+Urbana,Central,3,42,Mujer,6.0,Cuenta propia,1304167.79645594,0,1,0.7383603159975962,True
+Rural,Misiones,1,74,Mujer,3.0,Inactivo/No aplica,1323970.88050766,1,0,0.3007831087685157,True
+Rural,San Pedro,3,22,Mujer,10.0,Empleado/a privado/a,2184794.697318,0,1,0.5269818539376216,True
+Urbana,Alto Paraná,3,27,Mujer,12.0,Cuenta propia,1833333.33333333,0,1,0.9020112644081768,True
+Urbana,Alto Paraná,1,63,Hombre,8.0,Empleado/a privado/a,1796115.10791366,0,1,0.8210176432088593,True
+Urbana,Ñeembucú,8,56,Mujer,6.0,Inactivo/No aplica,2112306.20503596,0,1,0.9124911238571531,True
+Rural,Ñeembucú,3,69,Mujer,6.0,Inactivo/No aplica,907642.888440099,1,0,0.15713544833702137,True
+Urbana,Alto Paraná,7,48,Hombre,6.0,Cuenta propia,637802.246847221,0,1,0.6497590945813382,True
+Rural,Alto Paraná,6,55,Hombre,5.0,Cuenta propia,503800.859987696,1,0,0.4078889911820881,True
+Urbana,Paraguarí,5,59,Hombre,6.0,Empleado/a privado/a,1448191.17647059,0,1,0.8025127315053636,True
+Urbana,Asunción,4,35,Hombre,10.0,Empleado/a privado/a,829554.235632182,0,1,0.5788036262935263,True
+Urbana,Pdte. Hayes / Resto,5,57,Mujer,0.0,Doméstico/a,1039157.55036307,0,1,0.6137193343976024,True
+Rural,Itapúa,1,58,Hombre,6.0,Cuenta propia,1605047.2940613,0,1,0.5525217131420598,True
+Urbana,Canindeyú,7,66,Mujer,0.0,Cuenta propia,934798.42877817,0,1,0.519707732877815,True
+Urbana,Canindeyú,2,50,Mujer,6.0,Inactivo/No aplica,2013574.59291187,0,1,0.6595883295237304,True
+Urbana,Central,2,65,Mujer,6.0,Doméstico/a,1248200.14398848,1,0,0.48187109233409453,True
+Urbana,Amambay,4,72,Hombre,6.0,Cuenta propia,11000000.0,0,1,0.959593795810759,True
+Urbana,Guairá,4,53,Hombre,6.0,Empleado/a privado/a,1355204.01724138,0,1,0.768287498841367,True
+Rural,Paraguarí,4,27,Mujer,13.0,Inactivo/No aplica,1126978.08333333,1,0,0.4547285501365538,True
+Urbana,Alto Paraná,1,69,Hombre,6.0,Doméstico/a,2223667.64275257,0,1,0.6849466333662324,True
+Urbana,Central,2,63,Hombre,12.0,Empleado/a público/a,2837724.33596555,0,1,0.8258946318032503,True
+Rural,Caazapá,5,50,Mujer,6.0,Familiar no remunerado,1295144.90549556,0,1,0.5257742068614013,True
+Rural,Itapúa,4,62,Hombre,12.0,Cuenta propia,657433.056233551,1,0,0.23205809585723886,True
+Rural,Amambay,4,24,Hombre,3.0,Empleado/a privado/a,800725.535817136,1,0,0.32929799201785886,True
+Rural,Central,3,68,Mujer,5.0,Inactivo/No aplica,551758.851931672,1,0,0.20051550359789092,True
+Urbana,Central,2,67,Mujer,3.0,Inactivo/No aplica,2136591.9117647,0,1,0.6216922811581539,True
+Urbana,Asunción,6,45,Mujer,16.0,Doméstico/a,1096310.62432894,0,1,0.8590347206433621,True
+Rural,Paraguarí,3,68,Hombre,6.0,Inactivo/No aplica,2741931.29084967,1,0,0.47906310044903583,True
+Rural,Caazapá,3,46,Mujer,5.0,Doméstico/a,735698.33093525,1,0,0.16101803793775227,True
+Rural,Alto Paraná,4,61,Hombre,6.0,Empleado/a privado/a,5819533.71021778,0,1,0.8468550431262717,True
+Rural,Misiones,4,48,Mujer,12.0,Empleado/a público/a,1873979.77941176,0,1,0.6769224218282902,True
+Rural,Caazapá,2,69,Hombre,6.0,Cuenta propia,809173.526501558,1,0,0.11744083909232328,True
+Rural,Cordillera,1,71,Mujer,5.0,Inactivo/No aplica,1399577.0,1,0,0.2853325105622755,True
+Rural,Caaguazú,4,31,Mujer,10.0,Doméstico/a,620962.673606128,1,0,0.23892635693965644,True
+Rural,Central,6,47,Hombre,6.0,Empleado/a privado/a,919064.333333333,1,0,0.3615206036415708,True
+Rural,Caaguazú,1,61,Hombre,4.0,Cuenta propia,772040.497660188,1,0,0.1979126052390971,True
+Urbana,Asunción,2,47,Hombre,4.0,Cuenta propia,1850000.0,1,0,0.476443207536812,True
+Rural,Itapúa,4,35,Hombre,5.0,Empleado/a privado/a,1046142.0,1,0,0.37879672755303007,True
+Rural,Cordillera,3,64,Mujer,3.0,Inactivo/No aplica,319451.423785596,1,0,0.10802329063745518,True
+Rural,Alto Paraná,4,35,Hombre,15.0,Cuenta propia,1754522.8465105,0,1,0.8543298476998986,True
+Rural,Paraguarí,3,27,Mujer,12.0,Doméstico/a,2673034.63984674,0,1,0.5617623674164353,True
+Rural,Cordillera,3,25,Hombre,12.0,Doméstico/a,2498903.54619631,0,1,0.5881777962966243,True
+Rural,Canindeyú,4,40,Hombre,16.0,Cuenta propia,374402.956235011,1,0,0.2272013144478879,True
+Rural,Misiones,3,75,Hombre,3.0,Cuenta propia,1220632.13240808,1,0,0.16409842449210602,True
+Rural,Misiones,4,42,Hombre,4.0,Cuenta propia,632474.197841725,1,0,0.13360443102334832,True
+Urbana,San Pedro,4,41,Mujer,4.0,Doméstico/a,518176.721264367,1,0,0.26451665271145386,True
+Urbana,Canindeyú,8,32,Hombre,9.0,Cuenta propia,253843.338213763,1,0,0.24172747483431267,True
+Rural,Alto Paraná,1,72,Hombre,6.0,Empleado/a privado/a,3477018.62745098,0,1,0.6581505121069695,True
+Rural,Caazapá,3,26,Mujer,16.0,Empleado/a privado/a,1381240.59232614,0,1,0.5691747918301004,True
+Rural,Central,5,35,Hombre,9.0,Empleado/a privado/a,1056567.64705882,0,1,0.5071606965526265,True
+Urbana,Caaguazú,3,46,Mujer,14.0,Empleado/a privado/a,2263402.92776578,0,1,0.9296586826538993,True
+Urbana,Central,4,65,Hombre,6.0,Inactivo/No aplica,658278.521057206,0,1,0.5125432592816329,True
+Rural,Central,4,41,Hombre,12.0,Empleado/a privado/a,1317237.361025,0,1,0.663724269090858,True
+Rural,San Pedro,2,69,Hombre,6.0,Empleador/a,2309049.8201723,1,0,0.37930488791230904,True
+Rural,Caazapá,5,31,Hombre,6.0,Empleado/a privado/a,890575.556561301,1,0,0.2393639964749887,True
+Rural,Central,3,25,Hombre,12.0,Empleado/a privado/a,1350000.0,0,1,0.5397179463451417,True
+Rural,Central,5,71,Hombre,6.0,Inactivo/No aplica,2300000.0,0,1,0.7534035786758391,True
+Urbana,Alto Paraná,2,52,Hombre,6.0,Empleado/a privado/a,2644280.57553956,0,1,0.7764490820043238,True
+Rural,Caazapá,4,25,Mujer,9.0,Cuenta propia,1980520.40524049,0,1,0.6214674186998446,True
+Urbana,Alto Paraná,2,71,Hombre,3.0,Inactivo/No aplica,1150666.66666667,1,0,0.4012284275008773,True
+Urbana,Cordillera,4,40,Hombre,2.0,Cuenta propia,932338.0,0,1,0.5014281081337146,True
+Rural,Ñeembucú,6,76,Hombre,5.0,Inactivo/No aplica,1480341.67494004,1,0,0.3789836934074887,True
+Rural,Itapúa,4,37,Hombre,12.0,Empleado/a público/a,899132.008691178,1,0,0.3170982251969247,True
+Rural,Itapúa,1,20,Hombre,6.0,Empleado/a privado/a,2769985.52821998,0,1,0.7479701511316957,True
+Rural,San Pedro,3,42,Mujer,11.0,Doméstico/a,2455731.0,0,1,0.597428773265139,True
+Rural,Canindeyú,3,38,Hombre,6.0,Empleado/a privado/a,1489131.82471264,1,0,0.48612067931886227,True
+Rural,Caazapá,2,58,Hombre,6.0,Cuenta propia,451638.958333333,1,0,0.09747495396824774,True
+Urbana,Canindeyú,2,57,Mujer,4.0,Inactivo/No aplica,2968274.76817961,0,1,0.7850505857544944,True
+Rural,Alto Paraná,2,66,Hombre,6.0,Inactivo/No aplica,1192297.42725533,0,1,0.546550109186705,True
+Urbana,Amambay,2,65,Mujer,6.0,Inactivo/No aplica,565443.645083931,1,0,0.46020180155293133,True
+Rural,Amambay,2,58,Mujer,6.0,Cuenta propia,848165.467625897,1,0,0.28672893054057175,True
+Rural,San Pedro,3,43,Hombre,8.0,Empleado/a privado/a,981211.031175057,1,0,0.20820798111675934,True
+Urbana,Cordillera,2,40,Hombre,11.0,Empleado/a privado/a,4290719.42446042,0,1,0.8151182630164651,True
+Urbana,Amambay,5,40,Hombre,4.0,Cuenta propia,152306.002928258,1,0,0.3654130132976486,True
+Urbana,Amambay,11,42,Mujer,6.0,Empleado/a privado/a,844294.144200625,0,1,0.7429380663613303,True
+Urbana,Central,2,52,Mujer,4.0,Doméstico/a,2284590.04392387,0,1,0.6908737827928202,True
+Urbana,San Pedro,7,43,Mujer,6.0,Doméstico/a,1970186.84674329,0,1,0.8467219642810458,True
+Urbana,Amambay,4,46,Mujer,6.0,Doméstico/a,1814979.86822841,0,1,0.8724708747652077,True
+Rural,Alto Paraná,2,58,Hombre,3.0,Cuenta propia,619377.745241583,1,0,0.4228702550946538,True
+Rural,San Pedro,4,37,Hombre,11.0,Cuenta propia,2047949.83872901,0,1,0.59773498690787,True
+Rural,Central,2,30,Hombre,12.0,Empleador/a,3008566.17647058,0,1,0.7837460555243781,True
+Rural,San Pedro,1,44,Hombre,5.0,Empleado/a privado/a,1472026.81992337,1,0,0.47862814434650663,True
+Rural,Canindeyú,4,32,Mujer,6.0,Inactivo/No aplica,1010363.74137931,1,0,0.2288537341957184,True
+Urbana,Cordillera,6,29,Mujer,5.0,Empleado/a privado/a,1641632.82937365,0,1,0.8086875483563722,True
+Rural,Cordillera,1,85,Hombre,6.0,Cuenta propia,1597273.79337653,1,0,0.09620425657486625,True
+Urbana,Central,1,71,Mujer,4.0,Inactivo/No aplica,1499577.0,0,1,0.5045917688695619,True
+Rural,Cordillera,2,32,Mujer,12.0,Inactivo/No aplica,1547668.88558458,1,0,0.42120705749500664,True
+Urbana,Asunción,2,34,Hombre,12.0,Empleado/a privado/a,2475000.0,0,1,0.8376262970521223,True
+Rural,Paraguarí,3,38,Hombre,14.0,Empleado/a público/a,3506147.66666667,0,1,0.6433809381849059,True
+Rural,Alto Paraná,4,61,Hombre,6.0,Cuenta propia,1014760.41666667,0,1,0.5597231128158475,True
+Urbana,Pdte. Hayes / Resto,4,37,Mujer,10.0,Doméstico/a,863067.349926796,0,1,0.575997446984146,True
+Rural,Cordillera,3,87,Mujer,5.0,Cuenta propia,2432063.44771477,1,0,0.33592998048993516,True
+Rural,Misiones,4,66,Hombre,3.0,Cuenta propia,2170300.7351041,1,0,0.4703778738104054,True
+Rural,Caaguazú,4,55,Hombre,5.0,Empleador/a,1502653.14025135,0,1,0.5390622937829564,True
+Urbana,Misiones,3,63,Hombre,9.0,Empleado/a público/a,2230000.0,0,1,0.874667199856301,True
+Rural,Pdte. Hayes / Resto,3,22,Mujer,12.0,Empleado/a privado/a,1993516.34943876,0,1,0.5441527092974653,True
+Rural,Canindeyú,2,33,Hombre,12.0,Empleador/a,2234694.14511494,0,1,0.698672782829861,True
+Rural,Concepción,4,23,Hombre,9.0,Cuenta propia,1001798.25,1,0,0.17053934639075263,True
+Urbana,Central,1,70,Mujer,6.0,Inactivo/No aplica,1500000.0,0,1,0.6568817657375996,True
+Rural,Caazapá,3,49,Hombre,9.0,Cuenta propia,143133.796974134,1,0,0.0892701017730532,True
+Urbana,Asunción,4,64,Hombre,12.0,Cuenta propia,1405065.12301013,0,1,0.8711272540336419,True
+Rural,San Pedro,1,65,Hombre,6.0,Cuenta propia,1464471.62227022,1,0,0.39639963140235146,True
+Urbana,Alto Paraná,2,24,Mujer,10.0,Cuenta propia,733783.271418287,0,1,0.7184572300304422,True
+Urbana,Amambay,4,69,Mujer,0.0,Inactivo/No aplica,1103461.078125,1,0,0.4872866483310663,True
+Rural,Central,5,38,Hombre,6.0,Empleado/a privado/a,1490877.2,0,1,0.6460559959145526,True
+Urbana,Central,2,63,Hombre,6.0,Empleado/a privado/a,2045575.53956834,0,1,0.6108295289600671,True
+Urbana,Caaguazú,4,53,Mujer,2.0,Cuenta propia,1458162.26558753,0,1,0.7272721243623624,True
+Rural,Paraguarí,4,50,Mujer,2.0,Inactivo/No aplica,1670859.06862745,1,0,0.36827939766549667,True
+Rural,Paraguarí,5,36,Mujer,16.0,Empleado/a público/a,1832000.0,0,1,0.6214630526276118,True
+Urbana,Alto Paraná,1,72,Hombre,12.0,Cuenta propia,1393969.84924624,0,1,0.7692313437741909,True
+Urbana,Paraguarí,2,29,Mujer,17.0,Cuenta propia,1150000.0,0,1,0.7943364049945238,True
+Rural,Itapúa,5,34,Hombre,10.0,Empleado/a privado/a,905438.6,1,0,0.3277062395757709,True
+Urbana,Canindeyú,1,63,Hombre,4.0,Inactivo/No aplica,1605788.71201158,0,1,0.5808128428805648,True
+Urbana,Central,6,50,Hombre,12.0,Doméstico/a,2481056.03448275,0,1,0.9543294897530427,True
+Rural,Itapúa,4,58,Mujer,2.0,Cuenta propia,1384152.41666667,0,1,0.5501221477548006,True
+Urbana,Amambay,2,84,Mujer,6.0,Inactivo/No aplica,1349261.95705222,1,0,0.375042282641179,True
+Rural,San Pedro,4,64,Hombre,4.0,Cuenta propia,886684.222222222,1,0,0.12507913909261012,True
+Urbana,Ñeembucú,2,62,Mujer,15.0,Empleado/a público/a,3283501.12431205,0,1,0.8644438097587848,True
+Urbana,Asunción,4,32,Mujer,3.0,Doméstico/a,539676.0,1,0,0.32343210509881726,True
+Urbana,Caaguazú,1,58,Hombre,6.0,Cuenta propia,4014471.78002895,0,1,0.7578239058865605,True
+Urbana,Central,6,71,Mujer,3.0,Cuenta propia,1308585.55236271,0,1,0.8198007237955459,True
+Urbana,Alto Paraná,2,65,Hombre,0.0,Inactivo/No aplica,1000000.0,1,0,0.23749548773575005,True
+Urbana,Alto Paraná,5,25,Hombre,6.0,Empleado/a privado/a,734072.320405211,0,1,0.6314097083668494,True
+Rural,Central,4,45,Hombre,5.0,Cuenta propia,1834859.35511159,0,1,0.5601287281207321,True
+Rural,Amambay,2,25,Mujer,16.0,Empleado/a público/a,2140739.41134243,0,1,0.6924960646762897,True
+Rural,Paraguarí,3,44,Hombre,6.0,Empleado/a privado/a,1156366.33767487,1,0,0.15358920153743025,True
+Rural,Paraguarí,3,39,Hombre,12.0,Cuenta propia,2386553.48762771,1,0,0.4651364246663961,True
+Urbana,Caazapá,3,28,Hombre,6.0,Cuenta propia,467544.284572341,1,0,0.1834409033125647,True
+Rural,Caazapá,3,67,Mujer,5.0,Cuenta propia,590814.734821215,1,0,0.14894823174695906,True
+Urbana,Central,1,66,Hombre,6.0,Empleado/a privado/a,3153895.22058823,0,1,0.7480277334028816,True
+Urbana,Alto Paraná,2,59,Mujer,1.0,Inactivo/No aplica,1244615.936827,1,0,0.4140567867535949,True
+Urbana,Itapúa,3,28,Hombre,12.0,Empleado/a privado/a,1978223.81813832,0,1,0.8160997901550088,True
+Rural,Guairá,4,38,Mujer,12.0,Cuenta propia,769191.816044511,1,0,0.33241047097576304,True
+Urbana,Alto Paraná,3,69,Mujer,0.0,Inactivo/No aplica,1772691.43860911,0,1,0.6301106242328074,True
+Rural,Guairá,4,43,Hombre,12.0,Cuenta propia,1057693.12356322,1,0,0.45514864865400867,True
+Rural,Caaguazú,2,27,Hombre,12.0,Cuenta propia,2389662.59870783,1,0,0.46817042188287517,True
+Rural,Caazapá,6,48,Hombre,6.0,Empleado/a privado/a,1249377.80568221,1,0,0.40687145370043853,True
+Urbana,Asunción,4,55,Mujer,4.0,Inactivo/No aplica,1845219.5,0,1,0.7901498399103829,True
+Urbana,Caaguazú,4,44,Hombre,6.0,Empleado/a privado/a,580076.693467339,1,0,0.3300584116938698,True
+Urbana,Alto Paraná,3,67,Mujer,6.0,Cuenta propia,1143117.33333333,0,1,0.6068654989733141,True
+Rural,Misiones,3,65,Mujer,3.0,Inactivo/No aplica,1619799.55803001,1,0,0.35052106643329145,True
+Rural,Amambay,6,36,Hombre,6.0,Empleado/a privado/a,1529779.4117647,0,1,0.6896523191270462,True
+Rural,Caaguazú,1,67,Hombre,1.0,Cuenta propia,2201481.98968824,1,0,0.24300320106385312,True
+Urbana,Central,6,65,Mujer,7.0,Cuenta propia,2464644.60784313,0,1,0.9668867103423306,True
+Rural,Pdte. Hayes / Resto,4,44,Hombre,12.0,Cuenta propia,1274433.73161765,0,1,0.5833832187365381,True
+Rural,Concepción,1,63,Hombre,2.0,Cuenta propia,1493539.1241924,1,0,0.35289559079412625,True
+Rural,Ñeembucú,2,33,Hombre,12.0,Empleado/a privado/a,2950000.0,0,1,0.5767591414039637,True
+Rural,Alto Paraná,6,51,Hombre,6.0,Empleador/a,2051628.39896808,0,1,0.8619481810462174,True
+Rural,Guairá,3,60,Hombre,6.0,Cuenta propia,910908.727301817,1,0,0.16942234720739038,True
+Urbana,Asunción,2,85,Mujer,2.0,Inactivo/No aplica,4989208.63309351,1,0,0.4909743685759584,True
+Rural,Canindeyú,3,78,Hombre,12.0,Cuenta propia,1626574.73877324,1,0,0.45385022336947606,True
+Urbana,Misiones,4,26,Hombre,15.0,Cuenta propia,1232338.0,0,1,0.8452333998409424,True
+Rural,Itapúa,7,68,Mujer,1.0,Inactivo/No aplica,1196769.90506978,1,0,0.43327240731997374,True
+Urbana,Cordillera,1,61,Hombre,12.0,Cuenta propia,6656666.66666667,0,1,0.9365328785768529,True
+Rural,San Pedro,2,53,Hombre,4.0,Cuenta propia,6255694.44444444,0,1,0.55945182942884,True
+Rural,Amambay,3,54,Hombre,4.0,Cuenta propia,2667047.34016594,0,1,0.6276239662833979,True
+Rural,Caaguazú,7,56,Hombre,8.0,Empleador/a,2120136.26559018,0,1,0.7848914255137541,True
+Rural,Central,1,76,Hombre,8.0,Cuenta propia,1298128.14974802,1,0,0.3395533774201994,True
+Rural,Itapúa,6,53,Hombre,7.0,Empleado/a privado/a,1219791.16294964,0,1,0.5174200915377852,True
+Rural,Cordillera,4,28,Hombre,12.0,Cuenta propia,501808.972503619,1,0,0.13411858629067486,True
+Rural,Misiones,3,51,Mujer,12.0,Cuenta propia,762949.222222222,1,0,0.2943236661854515,True
+Urbana,Itapúa,3,45,Hombre,6.0,Empleado/a privado/a,2523202.78184481,0,1,0.9061731149015148,True
+Rural,Cordillera,5,47,Hombre,6.0,Empleado/a privado/a,1503210.53333333,0,1,0.5695031827296302,True
+Urbana,Alto Paraná,1,33,Hombre,5.0,Empleado/a privado/a,3365441.4931802,0,1,0.852089715923139,True
+Rural,Caaguazú,4,41,Hombre,10.0,Empleado/a privado/a,1836048.86530015,0,1,0.5598875015808479,True
+Rural,Guairá,1,65,Hombre,4.0,Inactivo/No aplica,2558333.33333333,0,1,0.5320993409093457,True
+Rural,Paraguarí,3,78,Mujer,5.0,Inactivo/No aplica,1693753.18462643,1,0,0.2054980808225829,True
+Rural,Paraguarí,4,54,Hombre,5.0,Cuenta propia,1045172.6182039,1,0,0.18031363011282106,True
+Rural,San Pedro,4,42,Mujer,6.0,Cuenta propia,1478722.71043165,1,0,0.46188480285146544,True
+Urbana,Central,3,64,Hombre,12.0,Inactivo/No aplica,1793333.33333333,0,1,0.8805730153310695,True
+Rural,Ñeembucú,1,63,Hombre,3.0,Cuenta propia,1479350.50251257,1,0,0.3756389358134422,True
+Urbana,Caazapá,2,83,Hombre,9.0,Cuenta propia,4658317.99377843,0,1,0.8204777973397465,True
+Rural,Misiones,2,48,Hombre,6.0,Empleador/a,2125934.15238781,0,1,0.5047085945613161,True
+Rural,San Pedro,4,80,Mujer,3.0,Inactivo/No aplica,481692.5,1,0,0.08544587502188392,True
+Rural,Itapúa,3,30,Hombre,10.0,Inactivo/No aplica,1994338.38202426,0,1,0.5281509022775073,True
+Rural,Pdte. Hayes / Resto,4,34,Hombre,12.0,Empleado/a privado/a,1759246.32352941,0,1,0.6484247671316546,True
+Rural,Central,3,66,Hombre,5.0,Familiar no remunerado,1754870.98321342,1,0,0.3837026132242777,True
+Rural,Caazapá,1,72,Mujer,3.0,Inactivo/No aplica,1269998.77801724,1,0,0.3148201222388264,True
+Rural,Central,5,40,Mujer,14.0,Empleado/a privado/a,2262894.88591954,0,1,0.8050851186206295,True
+Urbana,Paraguarí,7,48,Mujer,4.0,Doméstico/a,1058889.3536917,0,1,0.6014514013758597,True
+Urbana,Paraguarí,4,39,Mujer,12.0,Inactivo/No aplica,1123931.02440776,0,1,0.7596400227433155,True
+Rural,Amambay,1,42,Hombre,6.0,Cuenta propia,1121838.23529412,0,1,0.5604091490857473,True
+Urbana,Itapúa,2,62,Mujer,2.0,Cuenta propia,2241918.10344827,0,1,0.6297201320829751,True
+Rural,Amambay,4,48,Hombre,6.0,Empleado/a privado/a,882371.677875485,1,0,0.31365190464107706,True
+Rural,Canindeyú,3,32,Hombre,2.0,Empleado/a privado/a,1209064.33333333,1,0,0.27320891897126615,True
+Rural,San Pedro,2,24,Hombre,10.0,Cuenta propia,1906874.09551375,1,0,0.3824070348908702,True
+Urbana,Caaguazú,3,50,Mujer,3.0,Empleado/a privado/a,2507972.18155198,0,1,0.8523415560661823,True
+Urbana,Caaguazú,4,52,Mujer,7.0,Doméstico/a,1077923.06819814,0,1,0.6647256419413671,True
+Rural,Caaguazú,4,53,Mujer,5.0,Cuenta propia,1068562.5,1,0,0.2656507668450223,True
+Urbana,Asunción,2,51,Hombre,9.0,Cuenta propia,2096976.24190065,0,1,0.7222230446049546,True
+Rural,Caaguazú,4,29,Hombre,14.0,Empleado/a público/a,1615208.90373563,0,1,0.7034959913896104,True
+Rural,Pdte. Hayes / Resto,6,29,Mujer,8.0,Cuenta propia,732282.770519265,1,0,0.3365081629044847,True
+Rural,Amambay,4,18,Mujer,11.0,Empleado/a privado/a,3525000.0,0,1,0.8172726015217368,True
+Urbana,San Pedro,2,64,Mujer,5.0,Empleado/a público/a,2487664.71449488,0,1,0.6247738852291934,True
+Urbana,Cordillera,5,30,Mujer,12.0,Empleador/a,1599151.08916009,0,1,0.8808153686744677,True
+Rural,Cordillera,9,35,Mujer,9.0,Inactivo/No aplica,581019.196355948,1,0,0.1722107165754306,True
+Rural,Amambay,4,39,Hombre,1.0,Empleado/a privado/a,1094553.64568345,1,0,0.4274822052719092,True
+Rural,Cordillera,7,55,Hombre,9.0,Empleador/a,1095928.54376221,1,0,0.49862519283861656,True
+Rural,Itapúa,3,25,Mujer,6.0,Cuenta propia,1291018.41196334,1,0,0.41774445770536983,True
+Urbana,Guairá,2,34,Mujer,16.0,Empleado/a público/a,2335358.71156662,0,1,0.8630887544703374,True
+Rural,Itapúa,4,57,Hombre,14.0,Cuenta propia,1469360.75,0,1,0.6783222665261938,True
+Urbana,Amambay,2,82,Mujer,0.0,Inactivo/No aplica,2256742.55854885,1,0,0.42477227845527615,True
+Rural,Central,4,40,Hombre,15.0,Empleado/a privado/a,1383446.19326501,0,1,0.7194525722752935,True
+Rural,Itapúa,6,53,Hombre,7.0,Empleado/a privado/a,787470.802841633,1,0,0.3353369513739491,True
+Rural,San Pedro,6,52,Hombre,6.0,Cuenta propia,786763.220866239,1,0,0.22555955751436096,True
+Urbana,Central,2,62,Hombre,10.0,Cuenta propia,3020644.47530365,0,1,0.8354987823971257,True
+Urbana,Asunción,2,45,Mujer,12.0,Cuenta propia,1858390.08045977,0,1,0.8171534406149068,True
+Urbana,San Pedro,4,32,Mujer,17.0,Empleado/a público/a,3629649.28057553,0,1,0.9720662164021371,True
+Urbana,Misiones,4,36,Hombre,6.0,Empleado/a privado/a,1087672.60859674,0,1,0.5404778346756486,True
+Rural,Caazapá,8,52,Hombre,5.0,Cuenta propia,1218961.625,1,0,0.4076180402324942,True
+Rural,Itapúa,3,62,Hombre,3.0,Cuenta propia,847004.472222222,1,0,0.18923247791842818,True
+Rural,Central,5,35,Hombre,6.0,Cuenta propia,1177833.08931186,1,0,0.48869456120060284,True
+Urbana,Guairá,2,64,Hombre,12.0,Cuenta propia,1873629.25108539,0,1,0.7368238612600991,True
+Rural,Amambay,5,66,Hombre,5.0,Cuenta propia,1053120.98827471,0,1,0.5431539876525856,True
+Rural,Alto Paraná,6,43,Mujer,4.0,Empleado/a privado/a,890809.122990162,0,1,0.6307748317295502,True
+Urbana,Central,2,37,Mujer,14.0,Cuenta propia,2371580.27357812,0,1,0.8796088296471097,True
+Rural,San Pedro,6,51,Mujer,4.0,Cuenta propia,658559.621902476,1,0,0.12731542888090705,True
+Urbana,Caaguazú,4,38,Hombre,15.0,Empleado/a público/a,1447338.0,0,1,0.8914761652212468,True
+Urbana,Amambay,3,69,Hombre,6.0,Cuenta propia,1553333.33333333,0,1,0.707040397536248,True
+Urbana,Canindeyú,4,31,Mujer,15.0,Empleado/a público/a,2233821.37628112,0,1,0.9311843482507759,True
+Rural,Guairá,6,60,Hombre,16.0,Empleado/a público/a,1292397.66666667,0,1,0.7217187452195906,True
+Rural,Itapúa,3,21,Mujer,12.0,Cuenta propia,420744.888888889,1,0,0.13551899640022444,True
+Rural,San Pedro,5,40,Mujer,6.0,Inactivo/No aplica,1531300.16616271,0,1,0.5393305777540875,True
+Rural,Cordillera,4,59,Hombre,6.0,Doméstico/a,2250000.0,1,0,0.4737067705444909,True
+Urbana,Alto Paraná,5,36,Mujer,3.0,Doméstico/a,1756000.0,0,1,0.8423665214962112,True
+Urbana,Central,6,75,Hombre,6.0,Inactivo/No aplica,1263588.21081599,0,1,0.8411952967684103,True
+Rural,Caaguazú,6,39,Mujer,16.0,Empleado/a público/a,1318506.62004467,0,1,0.6714211089292034,True
+Rural,Ñeembucú,3,37,Hombre,12.0,Doméstico/a,1615731.0,1,0,0.46368269167020004,True
+Rural,Itapúa,4,60,Hombre,2.0,Cuenta propia,1916517.20351391,0,1,0.5222212794987058,True
+Urbana,Itapúa,1,68,Hombre,2.0,Cuenta propia,2346193.87976962,0,1,0.6034739752575708,True
+Rural,San Pedro,3,33,Mujer,9.0,Cuenta propia,815882.352941176,1,0,0.23776468604394704,True
+Urbana,Alto Paraná,3,43,Hombre,0.0,Cuenta propia,1062835.24904214,0,1,0.5189861415300855,True
+Rural,Alto Paraná,1,67,Mujer,4.0,Inactivo/No aplica,1452051.92629816,0,1,0.73211247013844,True
+Rural,Cordillera,2,22,Mujer,12.0,Empleado/a privado/a,522738.693467339,1,0,0.15308845616754188,True
+Urbana,Paraguarí,5,76,Mujer,5.0,Cuenta propia,622447.542302157,1,0,0.3758220483485937,True
+Urbana,Cordillera,3,39,Hombre,12.0,Empleado/a privado/a,1160044.41666666,0,1,0.6897744915864102,True
+Urbana,Asunción,4,63,Hombre,5.0,Inactivo/No aplica,1873060.43670928,0,1,0.8173239060251672,True
+Rural,Alto Paraná,3,56,Mujer,4.0,Cuenta propia,810142.707830843,0,1,0.5432113828526323,True
+Rural,Alto Paraná,4,47,Hombre,7.0,Doméstico/a,1075808.66666667,0,1,0.7397879233084866,True
+Urbana,Central,1,61,Mujer,6.0,Inactivo/No aplica,3997744.81427883,0,1,0.8649928937856445,True
+Urbana,San Pedro,4,89,Mujer,4.0,Inactivo/No aplica,4193526.99335488,0,1,0.832737601140691,True
+Rural,Guairá,4,38,Hombre,9.0,Cuenta propia,2731460.70867532,0,1,0.6726402545651088,True
+Rural,Misiones,4,29,Mujer,12.0,Inactivo/No aplica,801096.5,1,0,0.33281182682678456,True
+Urbana,Misiones,5,61,Hombre,11.0,Cuenta propia,1986491.53333333,0,1,0.9284520404952521,True
+Rural,Caazapá,1,72,Hombre,0.0,Cuenta propia,2979355.32352238,1,0,0.4147128909892221,True
+Rural,Caazapá,2,67,Hombre,5.0,Cuenta propia,770000.0,1,0,0.12078950269251215,True
+Rural,Cordillera,2,59,Mujer,4.0,Cuenta propia,2627196.83855916,1,0,0.34382327684675773,True
+Urbana,Central,9,24,Mujer,4.0,Empleado/a privado/a,407489.777777778,1,0,0.4642769466788305,True
+Rural,Caaguazú,1,71,Hombre,5.0,Cuenta propia,1975304.53165467,1,0,0.22656588906765987,True
+Urbana,Paraguarí,9,37,Hombre,9.0,Empleado/a privado/a,652429.287382928,0,1,0.5287825173908945,True
+Rural,Pdte. Hayes / Resto,8,36,Mujer,5.0,Empleado/a privado/a,1575812.78978225,0,1,0.587056038721354,True
+Rural,Alto Paraná,3,58,Hombre,6.0,Empleado/a privado/a,1588679.94208463,0,1,0.7085876455656243,True
+Urbana,Asunción,3,51,Hombre,5.0,Cuenta propia,849720.954172698,1,0,0.2678489131767396,True
+Urbana,Paraguarí,3,36,Hombre,11.0,Cuenta propia,1021074.1678657,0,1,0.5277292359877706,True
+Urbana,Central,7,67,Hombre,6.0,Cuenta propia,1318478.85714286,0,1,0.8726485389258031,True
+Rural,Itapúa,2,54,Hombre,9.0,Empleado/a privado/a,2840273.32134292,0,1,0.532038295963467,True
+Urbana,Central,3,45,Hombre,6.0,Empleado/a privado/a,1090923.08872901,0,1,0.585458627871731,True
+Rural,Central,2,30,Mujer,12.0,Empleado/a privado/a,1444791.66666666,1,0,0.4943717181074483,True
+Rural,Caaguazú,1,71,Hombre,6.0,Inactivo/No aplica,1499577.0,1,0,0.24303651942133334,True
+Rural,Caazapá,3,42,Mujer,3.0,Familiar no remunerado,1525622.74660271,1,0,0.27742796486022514,True
+Rural,Cordillera,4,33,Mujer,6.0,Cuenta propia,780694.678160918,1,0,0.18207040811870406,True
+Urbana,Amambay,2,43,Mujer,8.0,Inactivo/No aplica,1856693.19826339,0,1,0.7764189761290754,True
+Rural,Caaguazú,4,28,Mujer,8.0,Inactivo/No aplica,484190.395803185,1,0,0.158124404520876,True
+Rural,Misiones,3,62,Hombre,3.0,Cuenta propia,1031093.05631332,1,0,0.20083030176607375,True
+Urbana,Central,4,25,Hombre,7.0,Empleado/a privado/a,939220.351390925,0,1,0.5665730836904674,True
+Rural,Central,4,58,Mujer,2.0,Cuenta propia,1850000.0,0,1,0.5527230207068868,True
+Rural,San Pedro,1,74,Mujer,6.0,Inactivo/No aplica,1580000.0,1,0,0.34017900277371677,True
+Rural,Itapúa,4,48,Hombre,16.0,Empleado/a público/a,1674218.52343445,0,1,0.7097585661385383,True
+Rural,Guairá,5,38,Mujer,12.0,Cuenta propia,647470.734482758,1,0,0.28126265675167256,True
+Rural,Paraguarí,4,37,Mujer,3.0,Cuenta propia,864704.118250628,1,0,0.15506545878405548,True
+Urbana,Central,2,48,Hombre,12.0,Empleado/a público/a,4900000.0,0,1,0.9519393176446976,True
+Rural,Cordillera,2,65,Hombre,13.0,Cuenta propia,4600585.94467483,0,1,0.7371370569405745,True
+Urbana,Concepción,4,56,Mujer,3.0,Inactivo/No aplica,532338.0,1,0,0.2588731341970491,True
+Rural,Amambay,1,61,Hombre,5.0,Empleado/a privado/a,3090000.0,0,1,0.7213861858893408,True
+Rural,Caaguazú,3,65,Hombre,9.0,Cuenta propia,898563.306695465,1,0,0.171632050473847,True
+Rural,Central,3,32,Hombre,12.0,Cuenta propia,2962254.21142309,0,1,0.7097808340597227,True
+Urbana,Concepción,2,62,Mujer,10.0,Doméstico/a,1300000.0,0,1,0.5711020866673616,True
+Urbana,Ñeembucú,3,46,Mujer,17.0,Empleado/a público/a,2261939.14046423,0,1,0.9459383007553683,True
+Urbana,Canindeyú,2,56,Mujer,12.0,Inactivo/No aplica,2150000.0,0,1,0.8395750569946673,True
+Rural,San Pedro,3,33,Hombre,17.0,Empleado/a privado/a,985857.843137254,1,0,0.4377337445892092,True
+Rural,Misiones,3,49,Mujer,6.0,Doméstico/a,1583713.40927258,1,0,0.3785605935994343,True
+Rural,Paraguarí,2,64,Mujer,6.0,Cuenta propia,1731677.66618809,1,0,0.29329953278147514,True
+Urbana,Concepción,2,31,Hombre,10.0,Cuenta propia,597573.221509652,1,0,0.3123727636072782,True
+Urbana,Itapúa,3,34,Hombre,6.0,Empleado/a privado/a,1352901.33333333,0,1,0.6175866055972737,True
+Rural,San Pedro,4,47,Hombre,12.0,Empleador/a,994356.617647058,1,0,0.38010525693509195,True
+Rural,Caazapá,2,32,Hombre,16.0,Empleado/a público/a,1682725.60464559,1,0,0.47209314081826387,True
+Rural,Caazapá,1,65,Hombre,4.0,Empleado/a privado/a,2900000.0,0,1,0.5510671404765324,True
+Urbana,Ñeembucú,2,48,Hombre,6.0,Cuenta propia,741542.175161524,1,0,0.20639567964029035,True
+Urbana,Paraguarí,2,47,Mujer,7.0,Doméstico/a,2000787.35632184,0,1,0.6090399971730834,True
+Urbana,Central,2,21,Mujer,12.0,Inactivo/No aplica,1842031.58650396,0,1,0.7830518423675753,True
+Rural,San Pedro,2,26,Hombre,11.0,Empleado/a privado/a,1531271.13330934,1,0,0.3857285009453665,True
+Urbana,Canindeyú,6,36,Mujer,10.0,Doméstico/a,762097.299114623,0,1,0.6329270281056696,True
+Urbana,Central,2,30,Mujer,12.0,Empleado/a privado/a,3310000.0,0,1,0.87193413670421,True
+Urbana,Itapúa,3,59,Hombre,6.0,Cuenta propia,1455240.64668265,0,1,0.6985348806387576,True
+Rural,Caaguazú,5,43,Hombre,12.0,Cuenta propia,2029943.86666667,0,1,0.7467516711001616,True
+Urbana,Alto Paraná,2,75,Hombre,2.0,Inactivo/No aplica,1073871.20115774,1,0,0.3147421230905997,True
+Urbana,Central,6,51,Hombre,12.0,Empleado/a privado/a,1531342.66666667,0,1,0.9046204074720781,True
+Urbana,Central,2,65,Hombre,6.0,Inactivo/No aplica,2341558.90804597,0,1,0.6460850228028927,True
+Urbana,Asunción,2,51,Mujer,12.0,Empleado/a privado/a,3050000.0,0,1,0.8744917008537468,True
+Urbana,Cordillera,6,70,Mujer,5.0,Inactivo/No aplica,1919587.15522068,0,1,0.8976506388137364,True
+Rural,San Pedro,2,65,Hombre,6.0,Cuenta propia,1070845.58823529,1,0,0.15406870127259314,True
+Urbana,Alto Paraná,2,63,Mujer,8.0,Doméstico/a,2328297.3621103,0,1,0.8210863539930134,True
+Urbana,Central,4,29,Hombre,6.0,Empleado/a privado/a,824092.497620793,0,1,0.5386861475202392,True
+Rural,Caaguazú,4,61,Hombre,6.0,Empleado/a privado/a,1421924.46043165,1,0,0.4132734954408707,True
+Rural,Central,3,33,Mujer,13.0,Empleado/a privado/a,2045042.2748664,0,1,0.6412369570481296,True
+Rural,Itapúa,3,29,Hombre,9.0,Empleado/a privado/a,1522601.50359712,1,0,0.4376493015747793,True
+Rural,Guairá,3,88,Mujer,6.0,Inactivo/No aplica,2233192.33333333,1,0,0.3076357820745338,True
+Urbana,Itapúa,7,47,Hombre,6.0,Empleado/a privado/a,596386.791466222,1,0,0.44937744192110257,True
+Rural,Alto Paraná,2,51,Mujer,1.0,Cuenta propia,1723333.33333333,0,1,0.6496604538768195,True
+Rural,Central,2,26,Hombre,14.0,Empleado/a privado/a,1294400.57430008,0,1,0.6230570658677449,True
+Rural,Alto Paraná,1,51,Hombre,0.0,Cuenta propia,2400000.0,0,1,0.7495377444242198,True
+Urbana,Misiones,3,35,Hombre,6.0,Cuenta propia,1138835.78431372,1,0,0.3951761803024637,True
+Rural,Cordillera,5,53,Hombre,5.0,Cuenta propia,1577241.88352947,0,1,0.5451033417694532,True
+Rural,Alto Paraná,5,45,Hombre,2.0,Empleado/a privado/a,1219431.3627451,0,1,0.7206135705175605,True
+Rural,San Pedro,3,49,Hombre,6.0,Cuenta propia,440818.341469252,1,0,0.09428903969107154,True
+Rural,Alto Paraná,5,25,Hombre,6.0,Empleado/a privado/a,734445.079481642,0,1,0.6071313609549156,True
+Rural,Central,2,75,Mujer,3.0,Cuenta propia,4287976.75698772,0,1,0.5089655120448509,True
+Rural,Caaguazú,1,39,Hombre,3.0,Cuenta propia,2190524.04881551,0,1,0.5932294765645252,True
+Urbana,Central,2,71,Mujer,11.0,Cuenta propia,1254020.62228654,0,1,0.6904115080135752,True
+Rural,San Pedro,1,34,Mujer,9.0,Empleado/a privado/a,1971516.59346023,0,1,0.8187008493331035,True
+Rural,Canindeyú,5,32,Mujer,8.0,Cuenta propia,955761.777011493,1,0,0.30870021166144757,True
+Rural,Itapúa,6,35,Mujer,10.0,Empleado/a privado/a,1161877.23261391,0,1,0.5892765632903502,True
+Urbana,Alto Paraná,1,67,Hombre,9.0,Inactivo/No aplica,1646016.7618705,0,1,0.7700154251634396,True
+Rural,Canindeyú,4,67,Hombre,6.0,Cuenta propia,2467598.64490407,0,1,0.5766206327905674,True
+Urbana,Pdte. Hayes / Resto,4,65,Hombre,4.0,Inactivo/No aplica,814525.415633609,1,0,0.42203745818711247,True
+Urbana,Central,3,28,Mujer,13.0,Empleado/a privado/a,1319568.0,0,1,0.8415096511817555,True
+Rural,Concepción,2,32,Hombre,16.0,Empleador/a,2286037.12347013,0,1,0.5018332386843457,True
+Urbana,Alto Paraná,4,46,Mujer,16.0,Cuenta propia,1740974.15745394,0,1,0.9445922315162439,True
+Rural,San Pedro,1,64,Hombre,1.0,Cuenta propia,338018.884892085,1,0,0.06026241258061184,True
+Rural,Caazapá,1,28,Mujer,6.0,Cuenta propia,802894.35600579,1,0,0.42009534202384113,True
+Urbana,Alto Paraná,4,34,Hombre,10.0,Cuenta propia,1163164.12095033,0,1,0.8136726885530253,True
+Urbana,Pdte. Hayes / Resto,1,84,Hombre,9.0,Inactivo/No aplica,2171433.63173009,1,0,0.45470195832089183,True
+Urbana,Asunción,5,41,Hombre,12.0,Empleado/a privado/a,1031835.6,0,1,0.807765672521112,True
+Rural,Itapúa,3,20,Mujer,12.0,Inactivo/No aplica,1179082.85440613,1,0,0.43023086502963387,True
+Rural,Central,4,73,Mujer,6.0,Inactivo/No aplica,1758012.8721223,1,0,0.476103447247261,True
+Rural,Cordillera,4,68,Mujer,5.0,Inactivo/No aplica,1850000.0,1,0,0.4295231792077678,True
+Urbana,Alto Paraná,1,43,Hombre,7.0,Cuenta propia,1319985.35871157,0,1,0.7913637622821855,True
+Urbana,Misiones,1,66,Mujer,6.0,Inactivo/No aplica,1096048.85057471,1,0,0.4588652161792,True
+Rural,Misiones,1,63,Hombre,3.0,Empleado/a privado/a,1600000.0,1,0,0.43006976074277736,True
+Urbana,Amambay,2,31,Hombre,9.0,Empleado/a privado/a,2833913.60691145,0,1,0.8389528825957362,True
+Rural,Cordillera,4,40,Hombre,12.0,Empleado/a privado/a,1613596.5,0,1,0.6421508338009853,True
+Rural,Pdte. Hayes / Resto,1,53,Hombre,6.0,Cuenta propia,802894.35600579,1,0,0.30792557845257057,True
+Urbana,Amambay,2,48,Hombre,5.0,Cuenta propia,3750000.0,0,1,0.8135450721043643,True
+Urbana,Central,3,33,Hombre,6.0,Empleado/a privado/a,1076450.66666667,1,0,0.4855052351686135,True
+Rural,Alto Paraná,5,42,Hombre,6.0,Cuenta propia,936315.8,0,1,0.5789802886132178,True
+Urbana,Misiones,3,48,Mujer,15.0,Empleado/a público/a,2959784.0,0,1,0.9400460155044067,True
+Rural,Itapúa,1,80,Mujer,3.0,Inactivo/No aplica,2899577.0,0,1,0.5309701880221439,True
+Rural,Canindeyú,5,37,Hombre,8.0,Empleado/a privado/a,874471.032706225,1,0,0.3087276482690874,True
+Rural,San Pedro,3,51,Hombre,6.0,Empleador/a,1884795.33333333,0,1,0.509544239199934,True
+Rural,Alto Paraná,1,71,Mujer,3.0,Inactivo/No aplica,2314699.34170581,0,1,0.7087983970058193,True
+Rural,Cordillera,3,28,Mujer,10.0,Cuenta propia,2106136.5675546,1,0,0.4975061799715741,True
+Rural,Paraguarí,4,41,Mujer,16.0,Empleado/a público/a,2137397.66666667,0,1,0.6484313710779898,True
+Rural,Pdte. Hayes / Resto,1,78,Mujer,6.0,Empleador/a,3545750.89871196,1,0,0.4832283138373505,True
+Urbana,Cordillera,5,33,Hombre,10.0,Empleado/a privado/a,643551.26403446,0,1,0.5609817956062766,True
+Rural,Alto Paraná,1,57,Hombre,2.0,Cuenta propia,5567291.66666667,0,1,0.7870506942926809,True
+Rural,San Pedro,6,29,Hombre,6.0,Empleado/a privado/a,1660126.51660281,0,1,0.529710010904687,True
+Urbana,Central,1,75,Mujer,6.0,Cuenta propia,1668900.55664034,1,0,0.47992898020171937,True
+Rural,Pdte. Hayes / Resto,4,41,Hombre,12.0,Cuenta propia,1706798.25,0,1,0.6375244433018954,True
+Rural,Central,4,42,Hombre,15.0,Empleado/a privado/a,1034418.95851423,0,1,0.6106297961544044,True
+Rural,Caaguazú,3,50,Hombre,4.0,Cuenta propia,770278.177745781,1,0,0.12917111561887232,True
+Urbana,Central,2,35,Hombre,9.0,Cuenta propia,2705336.91954023,0,1,0.824964601074539,True
+Rural,Caaguazú,2,67,Hombre,7.0,Empleador/a,221024811.241007,0,1,0.6865985451072036,True
+Urbana,Itapúa,4,30,Hombre,9.0,Empleado/a privado/a,1362500.0,0,1,0.7588760281507604,True
+Rural,Paraguarí,5,62,Hombre,5.0,Cuenta propia,836180.030126828,1,0,0.17031071869897985,True
+Rural,Alto Paraná,2,63,Mujer,2.0,Cuenta propia,1131352.7335487,1,0,0.4307847009699352,True
+Rural,Caaguazú,4,45,Hombre,12.0,Cuenta propia,407631.916666667,1,0,0.13071016406941668,True
+Urbana,Caaguazú,1,69,Hombre,4.0,Cuenta propia,1880365.58603312,1,0,0.47101904701483616,True
+Urbana,Caazapá,2,93,Mujer,5.0,Inactivo/No aplica,4569180.08784774,1,0,0.48379712849489853,True
+Urbana,Central,2,66,Hombre,9.0,Inactivo/No aplica,1320952.38095239,0,1,0.6049557349375827,True
+Rural,Itapúa,2,29,Hombre,12.0,Cuenta propia,1800000.0,1,0,0.46854465639762516,True
+Rural,Itapúa,3,44,Hombre,5.0,Empleado/a privado/a,2145414.98636038,1,0,0.47219523940937497,True
+Urbana,Caaguazú,4,69,Hombre,1.0,Empleado/a privado/a,1544317.11287989,0,1,0.6875949941026201,True
+Urbana,Caazapá,1,61,Hombre,4.0,Cuenta propia,3186216.79827711,0,1,0.7210276834779161,True
+Urbana,Alto Paraná,4,48,Mujer,6.0,Doméstico/a,1389290.83465992,0,1,0.8478225677171969,True
+Urbana,Asunción,3,69,Hombre,6.0,Cuenta propia,829743.957884664,1,0,0.41126896580517247,True
+Rural,Alto Paraná,2,38,Hombre,6.0,Empleado/a privado/a,2084392.26451928,0,1,0.6939311060772483,True
+Rural,Itapúa,2,33,Mujer,11.0,Inactivo/No aplica,1593108.39913856,0,1,0.5222245678529513,True
+Rural,Itapúa,5,41,Hombre,12.0,Cuenta propia,686460.078086873,1,0,0.309296457318882,True
+Urbana,Central,2,56,Hombre,3.0,Cuenta propia,2156774.96382055,0,1,0.6402433365024239,True
+Rural,Caazapá,6,65,Hombre,0.0,Cuenta propia,438598.981210348,1,0,0.10402344036368655,True
+Rural,Itapúa,5,67,Hombre,1.0,Cuenta propia,325880.493016559,1,0,0.08770014740365847,True
+Urbana,Central,4,63,Hombre,6.0,Empleador/a,1804818.20158388,0,1,0.9149459018063089,True
+Rural,Canindeyú,5,33,Hombre,5.0,Empleador/a,544299.59864494,1,0,0.26077120638171264,True
+Urbana,Caaguazú,5,65,Mujer,6.0,Cuenta propia,514968.220479615,1,0,0.4008430185421385,True
+Rural,San Pedro,2,53,Mujer,4.0,Familiar no remunerado,972270.227131224,1,0,0.10308831315402965,True
+Urbana,Central,3,26,Mujer,4.0,Doméstico/a,2044489.11222781,0,1,0.6785279250877781,True
+Rural,Alto Paraná,3,48,Hombre,4.0,Inactivo/No aplica,449075.245098039,1,0,0.40139980164408223,True
+Rural,Cordillera,3,32,Hombre,15.0,Empleado/a privado/a,2160668.93995098,0,1,0.6154890841282877,True
+Urbana,Caaguazú,3,68,Mujer,0.0,Inactivo/No aplica,1074869.98488121,1,0,0.2310046449866587,True
+Rural,Caazapá,4,42,Mujer,6.0,Familiar no remunerado,450678.578547501,1,0,0.10989506478151408,True
+Rural,Canindeyú,4,33,Hombre,1.0,Empleado/a privado/a,1276798.25,1,0,0.48911051565870955,True
+Urbana,Canindeyú,3,60,Mujer,1.0,Cuenta propia,3353277.77777778,0,1,0.8497707186722734,True
+Urbana,Cordillera,5,68,Hombre,2.0,Inactivo/No aplica,754694.798706895,0,1,0.5212610192659655,True
+Urbana,Central,2,65,Mujer,6.0,Empleado/a privado/a,1883658.83729302,0,1,0.6355477792788106,True
+Urbana,Pdte. Hayes / Resto,2,70,Hombre,6.0,Empleado/a público/a,1900000.0,1,0,0.4824711026885193,True
+Rural,Guairá,1,71,Hombre,4.0,Inactivo/No aplica,2275885.85927564,1,0,0.40116037670675503,True
+Urbana,Alto Paraná,1,55,Hombre,8.0,Empleado/a privado/a,2810130.24602027,0,1,0.8978853694254469,True
+Rural,Central,4,33,Hombre,12.0,Empleado/a privado/a,1903825.03660323,0,1,0.6781090438335969,True
+Rural,Central,4,45,Hombre,6.0,Inactivo/No aplica,586415.44117647,1,0,0.19357808052963268,True
+Urbana,Asunción,2,93,Mujer,9.0,Inactivo/No aplica,4315336.74963398,0,1,0.7952375728303598,True
+Rural,Misiones,4,29,Hombre,12.0,Empleado/a privado/a,761596.5,1,0,0.301412329814056,True
+Urbana,Pdte. Hayes / Resto,4,65,Hombre,6.0,Cuenta propia,2602279.51347522,0,1,0.9108100825519734,True
+Urbana,Ñeembucú,1,73,Mujer,6.0,Inactivo/No aplica,1819893.87361312,0,1,0.525906902596026,True
+Rural,Itapúa,3,64,Hombre,3.0,Empleador/a,3506957.09101062,0,1,0.7438885431879696,True
+Rural,Ñeembucú,2,85,Hombre,2.0,Cuenta propia,1048065.7300216,1,0,0.07242447497151391,True
+Rural,Misiones,3,72,Hombre,6.0,Cuenta propia,1704179.41740661,1,0,0.24074250037327002,True
+Rural,Paraguarí,4,34,Hombre,12.0,Empleado/a privado/a,1400471.5,0,1,0.5399131529452329,True
+Urbana,Central,2,75,Hombre,8.0,Inactivo/No aplica,1427153.30150754,0,1,0.5832641334314519,True
+Urbana,Itapúa,8,42,Mujer,2.0,Empleador/a,1097419.0,0,1,0.7979479619439012,True
+Urbana,Ñeembucú,3,22,Hombre,8.0,Empleado/a privado/a,1191371.40068326,1,0,0.34811479156584296,True
+Urbana,Central,1,41,Hombre,5.0,Empleado/a privado/a,3489706.43001764,0,1,0.840012429123162,True
+Rural,Alto Paraná,4,33,Mujer,12.0,Cuenta propia,859298.25,0,1,0.6453548658966064,True
+Rural,Paraguarí,2,61,Mujer,17.0,Empleador/a,27640954.5601514,0,1,0.9439633266705575,True
+Urbana,Itapúa,4,69,Mujer,2.0,Inactivo/No aplica,796448.905061022,1,0,0.4718983143202092,True
+Rural,Pdte. Hayes / Resto,3,25,Hombre,10.0,Empleado/a privado/a,2306082.75879398,0,1,0.5414566131997832,True
+Urbana,Itapúa,2,70,Hombre,11.0,Empleado/a privado/a,2412681.68748505,0,1,0.8043529095737141,True
+Urbana,Alto Paraná,2,30,Mujer,17.0,Empleado/a público/a,3613024.60202606,0,1,0.9604116677830984,True
+Rural,Misiones,4,41,Hombre,6.0,Empleado/a privado/a,1523060.02928258,1,0,0.4849865976679165,True
+Urbana,Asunción,5,48,Mujer,8.0,Cuenta propia,1829005.53151472,0,1,0.9271604271136692,True
+Urbana,Itapúa,4,41,Hombre,17.0,Empleado/a privado/a,2583364.30645354,0,1,0.9766379951379244,True
+Urbana,Guairá,10,64,Mujer,7.0,Cuenta propia,1469922.15714983,0,1,0.8758091063729361,True
+Rural,Concepción,3,57,Hombre,5.0,Cuenta propia,982996.772182252,1,0,0.11940483450045337,True
+Urbana,Caazapá,3,77,Mujer,2.0,Cuenta propia,2965636.83405275,0,1,0.7884181174626393,True
+Rural,Concepción,1,67,Mujer,5.0,Inactivo/No aplica,2029160.33333333,1,0,0.38220019291499696,True
+Urbana,Asunción,4,26,Mujer,6.0,Empleado/a privado/a,1288569.22916666,0,1,0.7503277547896585,True
+Urbana,Pdte. Hayes / Resto,2,37,Hombre,12.0,Cuenta propia,1773230.5,0,1,0.7368238612600991,True
+Rural,Itapúa,3,80,Mujer,1.0,Inactivo/No aplica,454712.765522875,1,0,0.0910571521216075,True
+Urbana,Central,5,68,Mujer,5.0,Inactivo/No aplica,938264.705882352,0,1,0.7122163139470554,True
+Rural,Alto Paraná,4,28,Hombre,9.0,Cuenta propia,1679458.43718503,0,1,0.8247545005977124,True
+Rural,Caazapá,1,49,Hombre,6.0,Cuenta propia,672363.810895129,1,0,0.251265592757701,True
+Urbana,Caaguazú,4,31,Mujer,7.0,Inactivo/No aplica,630839.267004343,1,0,0.3719192812222315,True
+Rural,Alto Paraná,3,25,Mujer,10.0,Inactivo/No aplica,760761.531609194,0,1,0.6864090358490629,True
+Urbana,Amambay,3,89,Mujer,0.0,Inactivo/No aplica,1099859.0,1,0,0.2652108277759052,True
+Rural,Caazapá,1,63,Mujer,3.0,Inactivo/No aplica,1766648.072318,0,1,0.5602274065634462,True
+Urbana,Alto Paraná,3,26,Hombre,12.0,Cuenta propia,1992816.09195402,0,1,0.8949711622298364,True
+Urbana,Asunción,3,39,Mujer,12.0,Doméstico/a,906790.704980841,0,1,0.6945819306106576,True
+Urbana,Itapúa,2,65,Mujer,2.0,Cuenta propia,1610350.23980815,0,1,0.5240522140968075,True
+Urbana,Alto Paraná,1,74,Mujer,3.0,Cuenta propia,1344185.21177316,1,0,0.4564324481268221,True
+Urbana,Alto Paraná,3,27,Mujer,16.0,Empleado/a privado/a,2022292.56594724,0,1,0.9235516422731435,True
+Rural,Alto Paraná,8,36,Hombre,4.0,Cuenta propia,508362.073036398,1,0,0.4034226736315554,True
+Rural,Itapúa,1,63,Hombre,4.0,Cuenta propia,1478461.9552203,1,0,0.4982555782342381,True
+Rural,Cordillera,5,48,Hombre,12.0,Cuenta propia,2779154.75095785,0,1,0.8046233717124393,True
+Urbana,Alto Paraná,2,60,Mujer,3.0,Inactivo/No aplica,1500000.0,0,1,0.5972462563027574,True
+Urbana,Canindeyú,1,69,Hombre,6.0,Cuenta propia,2695689.9200864,0,1,0.7385210439176854,True
+Urbana,Concepción,2,26,Mujer,14.0,Empleado/a privado/a,3848626.0775862,0,1,0.8743101008737421,True
+Rural,Amambay,4,37,Hombre,10.0,Cuenta propia,1290025.13570914,0,1,0.6655205426513281,True
+Rural,Central,7,42,Mujer,12.0,Inactivo/No aplica,971857.352018409,1,0,0.4854764987143851,True
+Rural,Central,2,57,Mujer,3.0,Doméstico/a,2889583.33333333,0,1,0.5298280962909979,True
+Urbana,Misiones,1,70,Hombre,15.0,Cuenta propia,4877625.0,0,1,0.899714157317148,True
+Rural,Alto Paraná,1,36,Hombre,5.0,Empleado/a privado/a,600000.0,0,1,0.5480040482236702,True
+Urbana,San Pedro,3,71,Mujer,18.0,Cuenta propia,3783192.33333333,0,1,0.9713769840824654,True
+Rural,Alto Paraná,4,55,Hombre,7.0,Cuenta propia,1225450.87748266,0,1,0.701650337719337,True
+Rural,Central,4,40,Mujer,12.0,Cuenta propia,4096799.57430009,0,1,0.8348793840211179,True
+Urbana,Central,3,62,Mujer,7.0,Doméstico/a,1780540.48657074,0,1,0.808958972728122,True
+Urbana,Caazapá,5,45,Hombre,9.0,Empleado/a privado/a,731517.76978417,0,1,0.5637385895461975,True
+Rural,San Pedro,1,59,Hombre,5.0,Inactivo/No aplica,2804595.58823529,0,1,0.5544690723808161,True
+Urbana,Caaguazú,2,75,Hombre,8.0,Inactivo/No aplica,1651424.89772182,0,1,0.5818361209365162,True
+Urbana,Caaguazú,4,45,Hombre,12.0,Cuenta propia,601192.330940418,1,0,0.49801949269768453,True
+Urbana,Central,5,43,Hombre,10.0,Empleado/a privado/a,739832.97413793,0,1,0.7514261004979139,True
+Urbana,Caazapá,3,33,Mujer,17.0,Inactivo/No aplica,900000.0,0,1,0.7475273207612861,True
+Rural,Cordillera,1,75,Mujer,4.0,Inactivo/No aplica,1478786.76470588,1,0,0.23672609895015548,True
+Urbana,Paraguarí,3,34,Mujer,14.0,Empleado/a público/a,3198529.21072796,0,1,0.8531450738995848,True
+Rural,Itapúa,3,41,Mujer,12.0,Cuenta propia,917867.647058823,1,0,0.3129809539935121,True
+Rural,Pdte. Hayes / Resto,4,39,Hombre,12.0,Empleado/a privado/a,5974156.49676958,0,1,0.871389082345323,True
+Urbana,Cordillera,4,53,Hombre,6.0,Empleado/a privado/a,908569.633883707,1,0,0.49970088916937305,True
+Rural,Misiones,2,31,Hombre,12.0,Empleado/a privado/a,3136432.16080403,0,1,0.5918861447630054,True
+Rural,Pdte. Hayes / Resto,7,28,Hombre,12.0,Empleado/a privado/a,817570.045220964,1,0,0.36751517780962256,True
+Rural,Caaguazú,2,42,Hombre,9.0,Cuenta propia,835307.827785819,1,0,0.1374922458900929,True
+Rural,Cordillera,2,25,Hombre,12.0,Doméstico/a,2300000.0,1,0,0.4188188038796235,True
+Rural,Amambay,4,44,Mujer,10.0,Cuenta propia,750000.0,1,0,0.37727439822265124,True
+Rural,Alto Paraná,2,52,Mujer,6.0,Familiar no remunerado,944465.958812259,0,1,0.5574438963360288,True
+Urbana,Concepción,3,51,Mujer,9.0,Cuenta propia,973217.908045975,1,0,0.41061020785444124,True
+Urbana,Ñeembucú,2,74,Mujer,3.0,Cuenta propia,1784718.1725462,1,0,0.280914007515149,True
+Urbana,Paraguarí,6,79,Mujer,5.0,Inactivo/No aplica,834709.336563774,1,0,0.47636801055883254,True
+Urbana,Canindeyú,3,46,Mujer,5.0,Doméstico/a,1391709.28735632,0,1,0.6222400264905555,True
+Urbana,Amambay,2,56,Mujer,9.0,Cuenta propia,2241918.10344827,0,1,0.8258724551112967,True
+Urbana,Caaguazú,2,61,Mujer,4.0,Cuenta propia,979583.333333333,1,0,0.26021428227836574,True
+Urbana,Alto Paraná,1,27,Hombre,5.0,Empleado/a privado/a,2538433.38213763,0,1,0.8380512909406738,True
+Urbana,Central,6,40,Hombre,12.0,Cuenta propia,1165916.18007663,0,1,0.8581204787097126,True
+Urbana,Paraguarí,2,45,Mujer,16.0,Inactivo/No aplica,3350000.0,0,1,0.79405753566523,True
+Urbana,Central,3,64,Mujer,7.0,Inactivo/No aplica,1826748.08429118,0,1,0.8480757233018886,True
+Rural,Pdte. Hayes / Resto,4,39,Mujer,6.0,Cuenta propia,1475306.66307471,0,1,0.5095771744166302,True
+Rural,Itapúa,1,63,Mujer,4.0,Cuenta propia,1379261.15910727,0,1,0.6354008454494663,True
+Rural,Misiones,2,23,Hombre,14.0,Empleado/a público/a,1758660.20114942,0,1,0.5962835910962424,True
+Urbana,Central,2,53,Mujer,15.0,Empleado/a privado/a,1161862.11261591,0,1,0.8151405141036169,True
+Rural,Canindeyú,3,24,Mujer,11.0,Empleado/a privado/a,2662826.9738421,0,1,0.7367818849059371,True
+Urbana,Concepción,3,65,Mujer,6.0,Cuenta propia,1109784.0,1,0,0.4345223484756113,True
+Urbana,San Pedro,3,44,Hombre,12.0,Cuenta propia,790339.555555556,0,1,0.6946396189332825,True
+Rural,Concepción,1,46,Hombre,2.0,Cuenta propia,2112385.05747126,1,0,0.48432334653910897,True
+Rural,Paraguarí,2,31,Mujer,6.0,Cuenta propia,702532.561505067,1,0,0.0979428331437542,True
+Urbana,Central,5,59,Hombre,12.0,Empleado/a privado/a,882252.309547742,0,1,0.8363215472470739,True
+Urbana,Cordillera,1,66,Mujer,9.0,Empleado/a público/a,4817366.13603474,0,1,0.892208812261065,True
+Rural,Concepción,1,51,Mujer,2.0,Cuenta propia,1116835.36731276,1,0,0.39200427967586077,True
+Rural,Central,5,66,Hombre,5.0,Inactivo/No aplica,508000.0,1,0,0.17452543854021257,True
+Urbana,Concepción,4,39,Hombre,12.0,Empleador/a,2211537.53039074,0,1,0.9165698918915134,True
+Rural,Alto Paraná,2,29,Mujer,5.0,Empleado/a privado/a,2839762.93103448,0,1,0.7181031532827897,True
+Urbana,Concepción,1,51,Hombre,6.0,Cuenta propia,1095262.02440776,1,0,0.42491942876380273,True
+Rural,Central,1,64,Hombre,3.0,Empleado/a privado/a,1394971.26436781,0,1,0.5166020647341,True
+Urbana,Central,1,66,Hombre,9.0,Empleado/a privado/a,700000.0,1,0,0.4745828955768988,True
+Urbana,Paraguarí,2,62,Mujer,14.0,Empleado/a público/a,2840715.37990196,0,1,0.8576143138156704,True
+Rural,Alto Paraná,4,32,Hombre,9.0,Cuenta propia,1009226.4541727,0,1,0.6371319521230754,True
+Rural,Caaguazú,2,32,Hombre,8.0,Empleado/a privado/a,3263431.01784854,0,1,0.5556173085781028,True
+Urbana,Concepción,11,65,Hombre,4.0,Cuenta propia,735900.322064872,1,0,0.4642562649798329,True
+Rural,Concepción,6,46,Hombre,6.0,Cuenta propia,519088.076469222,1,0,0.15510803404755363,True
+Urbana,Caazapá,2,53,Hombre,3.0,Empleador/a,2900000.0,0,1,0.7835447190851981,True
+Rural,Caaguazú,4,35,Hombre,15.0,Cuenta propia,2284307.88573822,0,1,0.7012061927152616,True
+Rural,Canindeyú,3,47,Hombre,4.0,Cuenta propia,815455.072887009,1,0,0.159204066659537,True
+Urbana,Itapúa,2,73,Hombre,4.0,Cuenta propia,1923271.95845306,0,1,0.5466221551891458,True
+Rural,Itapúa,2,61,Mujer,9.0,Cuenta propia,1438125.0,1,0,0.39459002430476864,True
+Rural,Itapúa,4,23,Mujer,5.0,Cuenta propia,264144.75,1,0,0.08550138831671106,True
+Rural,San Pedro,4,25,Hombre,6.0,Empleado/a privado/a,4103020.15496865,0,1,0.5966219632042784,True
+Urbana,Central,1,64,Hombre,17.0,Cuenta propia,2097497.54901961,0,1,0.8979841208424851,True
+Rural,Caazapá,4,74,Hombre,2.0,Cuenta propia,552489.583333333,1,0,0.14502415371457977,True
+Urbana,Central,2,76,Mujer,3.0,Inactivo/No aplica,1194620.87088045,1,0,0.34492872526810264,True
+Urbana,Guairá,2,29,Mujer,12.0,Doméstico/a,1189676.0,0,1,0.6215321208009764,True
+Urbana,Caaguazú,5,55,Mujer,1.0,Cuenta propia,1153674.44923371,0,1,0.7199989913071183,True
+Urbana,Alto Paraná,2,67,Hombre,3.0,Empleado/a privado/a,1448401.05288347,0,1,0.5147318634790348,True
+Urbana,Concepción,2,82,Hombre,0.0,Cuenta propia,1747057.81065515,1,0,0.09598775755050232,True
+Urbana,Alto Paraná,3,29,Hombre,17.0,Empleado/a privado/a,1899225.41966426,0,1,0.9165077429263022,True
+Urbana,Guairá,6,69,Mujer,6.0,Inactivo/No aplica,607901.52773758,1,0,0.4319734998206887,True
+Urbana,Paraguarí,1,27,Hombre,9.0,Cuenta propia,956866.162158767,1,0,0.3139779088779503,True
+Rural,San Pedro,3,50,Mujer,5.0,Cuenta propia,1567683.94607843,1,0,0.32963527802439,True
+Rural,Central,7,62,Hombre,4.0,Empleado/a privado/a,881444.327731091,1,0,0.3374023425491136,True
+Urbana,Asunción,3,32,Mujer,12.0,Doméstico/a,1693333.33333333,0,1,0.8091268750954286,True
+Rural,Alto Paraná,7,48,Hombre,1.0,Empleador/a,2897782.72114231,0,1,0.8782899975833902,True
+Urbana,Misiones,6,36,Mujer,14.0,Empleado/a privado/a,464107.690647481,0,1,0.6582714870949429,True
+Rural,Central,6,40,Mujer,12.0,Empleado/a privado/a,1097599.81191673,0,1,0.606175653811244,True
+Rural,Alto Paraná,3,62,Hombre,2.0,Cuenta propia,864590.409956078,1,0,0.44281608012009793,True
+Rural,Itapúa,5,44,Hombre,9.0,Empleado/a privado/a,1734906.57365011,0,1,0.7070559649015195,True
+Urbana,Ñeembucú,1,65,Mujer,4.0,Inactivo/No aplica,1529779.4117647,1,0,0.4216866442996216,True
+Rural,San Pedro,5,73,Hombre,2.0,Inactivo/No aplica,709815.515046797,1,0,0.13529910307219226,True
+Rural,Canindeyú,3,26,Hombre,6.0,Empleado/a privado/a,1206666.66666667,1,0,0.29856992856684395,True
+Urbana,Caazapá,1,76,Mujer,3.0,Inactivo/No aplica,1997120.23038157,1,0,0.446341683031344,True
+Urbana,Asunción,3,50,Mujer,6.0,Doméstico/a,2333333.33333333,0,1,0.862890585108087,True
+Rural,San Pedro,3,43,Hombre,3.0,Cuenta propia,1617433.34146739,1,0,0.24050591822400372,True
+Urbana,Central,2,72,Hombre,3.0,Cuenta propia,2495000.0,0,1,0.6134618824697798,True
+Rural,San Pedro,4,79,Hombre,6.0,Empleador/a,14226750.0,0,1,0.5539375780009479,True
+Rural,San Pedro,1,63,Mujer,5.0,Inactivo/No aplica,1508404.0767386,0,1,0.5350768538491693,True
+Urbana,Cordillera,2,64,Hombre,12.0,Cuenta propia,1969125.0,0,1,0.7030213576453784,True
+Urbana,Misiones,3,65,Hombre,16.0,Empleado/a público/a,3370381.22222222,0,1,0.9468913681400224,True
+Urbana,Misiones,2,67,Mujer,3.0,Empleado/a privado/a,653892.780172413,1,0,0.21145092380954203,True
+Rural,Itapúa,3,50,Hombre,4.0,Empleado/a privado/a,864666.666666667,1,0,0.19339755823703683,True
+Rural,Caazapá,2,71,Hombre,5.0,Cuenta propia,1112171.43812949,1,0,0.10776889871841208,True
+Urbana,Caazapá,5,63,Mujer,16.0,Inactivo/No aplica,3345117.64705882,0,1,0.9644746577458185,True
+Urbana,Caaguazú,3,69,Hombre,4.0,Empleado/a público/a,3570462.16475095,0,1,0.8877477879447423,True
+Urbana,Canindeyú,1,65,Mujer,2.0,Cuenta propia,1019852.94117647,1,0,0.35733170764618016,True
+Urbana,Misiones,3,37,Mujer,12.0,Doméstico/a,562404.018220271,1,0,0.4634722074092689,True
+Rural,Misiones,3,82,Hombre,3.0,Inactivo/No aplica,1579551.71045705,1,0,0.1790395868434034,True
+Rural,San Pedro,4,50,Mujer,6.0,Cuenta propia,372915.602022058,1,0,0.10539781505386889,True
+Rural,Caaguazú,3,20,Mujer,6.0,Inactivo/No aplica,367993.246502654,1,0,0.11293464266995143,True
+Urbana,San Pedro,2,21,Hombre,9.0,Empleado/a privado/a,1692677.67408472,0,1,0.5903540281392874,True
+Urbana,Itapúa,1,31,Mujer,14.0,Cuenta propia,2039705.88235294,0,1,0.924667935280484,True
+Urbana,San Pedro,3,71,Hombre,12.0,Cuenta propia,3285786.07322327,0,1,0.9251686111898031,True
+Urbana,Pdte. Hayes / Resto,2,86,Mujer,0.0,Inactivo/No aplica,4231483.59619528,1,0,0.4485587115543185,True
+Rural,Central,4,35,Hombre,13.0,Cuenta propia,789782.778184482,1,0,0.4814650694688559,True
+Urbana,Central,3,44,Hombre,12.0,Empleado/a público/a,1776927.68199233,0,1,0.8758088945603728,True
+Urbana,Ñeembucú,2,25,Hombre,12.0,Empleado/a privado/a,2960672.93777135,0,1,0.8101665261662098,True
+Urbana,Central,1,66,Mujer,6.0,Inactivo/No aplica,1400000.0,0,1,0.6568817657375996,True
+Urbana,Alto Paraná,3,58,Hombre,6.0,Cuenta propia,1700000.0,0,1,0.8316367386092232,True
+Rural,Caazapá,5,41,Hombre,11.0,Empleado/a privado/a,1216252.38151418,0,1,0.522364129203765,True
+Rural,Paraguarí,1,81,Mujer,6.0,Inactivo/No aplica,1321360.94687725,1,0,0.16621407697233506,True
+Urbana,Itapúa,3,76,Hombre,6.0,Inactivo/No aplica,1596406.06690647,0,1,0.7357727079783781,True
+Rural,Alto Paraná,3,63,Hombre,4.0,Cuenta propia,970568.10241685,1,0,0.4573074675644734,True
+Rural,Alto Paraná,4,66,Mujer,6.0,Inactivo/No aplica,2106838.86390887,0,1,0.7102282699633715,True
+Urbana,San Pedro,2,93,Mujer,15.0,Inactivo/No aplica,1726134.69985359,0,1,0.7443498099520461,True
+Rural,Alto Paraná,4,56,Hombre,6.0,Cuenta propia,694884.950313557,0,1,0.509007819341749,True
+Rural,Caazapá,1,75,Mujer,3.0,Inactivo/No aplica,6357919.68162085,0,1,0.6204858798594274,True
+Urbana,Itapúa,2,49,Mujer,9.0,Empleado/a público/a,1575666.81476122,0,1,0.6698905859990267,True
+Rural,Ñeembucú,5,38,Mujer,3.0,Doméstico/a,1326021.93333333,0,1,0.5086881955605588,True

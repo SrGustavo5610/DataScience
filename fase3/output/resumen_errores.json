@@ -1,0 +1,8 @@
+{
+  "errores_totales": 676,
+  "falsos_positivos": 394,
+  "falsos_negativos": 282,
+  "falsos_positivos_confianza_ge_0_90": 36,
+  "falsos_negativos_confianza_le_0_10": 14,
+  "nota": "Diagnóstico interno no ponderado del conjunto de prueba."
+}

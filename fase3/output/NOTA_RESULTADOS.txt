@@ -1,0 +1,15 @@
+RESULTADOS DEL EXPERIMENTO REPRODUCIDO
+Fuente indicada: EPHC Anual 2025 - INE Paraguay. Unidad: hogar. n = 17.092.
+Objetivo: TIENE_INTERNET. Predictores: ocho variables descritas en el informe.
+Partición: 60 % entrenamiento (10.255), 20 % validación (3.418), 20 % prueba (3.419), semilla 42.
+Validación cruzada estratificada: 3 pliegues. Modelos comparados: regresión logística, Random Forest e HistGradientBoosting.
+Modelo seleccionado por F1 de validación (AUC-ROC como desempate): HistGradientBoosting.
+
+Métricas:
+Entrenamiento: accuracy=0,8106; precision=0,8317; recall=0,8716; F1=0,8512; AUC-ROC=0,8867.
+Validación: accuracy=0,7926; precision=0,8128; recall=0,8653; F1=0,8382; AUC-ROC=0,8649.
+Prueba: accuracy=0,8023; precision=0,8238; recall=0,8672; F1=0,8450; AUC-ROC=0,8695.
+Línea base mayoritaria en prueba: accuracy=0,6212; precision=0,6212; recall=1,0000; F1=0,7664; AUC-ROC=0,5000.
+Matriz de confusión de prueba: TN=901, FP=394, FN=282, TP=1842.
+
+Cuidado: los resultados son no ponderados e internos de una sola edición anual, no estimaciones nacionales. Se detectaron diferencias de error por área y se recomienda auditar equidad/calibración antes de cualquier uso aplicado.
