@@ -88,7 +88,7 @@ Rural,Concepción,5,66,Mujer,3.0,Cuenta propia,616907.003416302,1,0,0.1714212006
 Rural,Caazapá,1,61,Mujer,0.0,Cuenta propia,1013954.58363331,1,0,0.18002829098659395,True
 Urbana,Central,7,31,Hombre,11.0,Empleado/a privado/a,683594.332888937,0,1,0.7750303854114126,True
 Rural,Paraguarí,6,47,Hombre,12.0,Empleado/a privado/a,2033926.71568627,0,1,0.7320961425374019,True
-Rural,Canindeyú,3,57,Mujer,4.0,Inactivo/No aplica,1260888.88888889,1,0,0.36644404642495154,True
+Rural,Canindeyú,3,57,Mujer,4.0,Inactivo/No aplica,1260888.88888889,1,0,0.3664440464249516,True
 Rural,Amambay,4,51,Hombre,8.0,Cuenta propia,2906798.25,0,1,0.7304419871783416,True
 Rural,Ñeembucú,4,31,Mujer,12.0,Cuenta propia,1528614.79676259,0,1,0.6352804299277031,True
 Urbana,Alto Paraná,2,16,Mujer,10.0,Empleado/a privado/a,2708095.03239741,0,1,0.8896353018114447,True
@@ -248,7 +248,7 @@ Urbana,Caaguazú,4,44,Hombre,6.0,Empleado/a privado/a,580076.693467339,1,0,0.330
 Urbana,Alto Paraná,3,67,Mujer,6.0,Cuenta propia,1143117.33333333,0,1,0.6068654989733141,True
 Rural,Misiones,3,65,Mujer,3.0,Inactivo/No aplica,1619799.55803001,1,0,0.35052106643329145,True
 Rural,Amambay,6,36,Hombre,6.0,Empleado/a privado/a,1529779.4117647,0,1,0.6896523191270462,True
-Rural,Caaguazú,1,67,Hombre,1.0,Cuenta propia,2201481.98968824,1,0,0.24300320106385312,True
+Rural,Caaguazú,1,67,Hombre,1.0,Cuenta propia,2201481.98968824,1,0,0.24300320106385317,True
 Urbana,Central,6,65,Mujer,7.0,Cuenta propia,2464644.60784313,0,1,0.9668867103423306,True
 Rural,Pdte. Hayes / Resto,4,44,Hombre,12.0,Cuenta propia,1274433.73161765,0,1,0.5833832187365381,True
 Rural,Concepción,1,63,Hombre,2.0,Cuenta propia,1493539.1241924,1,0,0.35289559079412625,True
@@ -367,7 +367,7 @@ Rural,Central,2,30,Mujer,12.0,Empleado/a privado/a,1444791.66666666,1,0,0.494371
 Rural,Caaguazú,1,71,Hombre,6.0,Inactivo/No aplica,1499577.0,1,0,0.24303651942133334,True
 Rural,Caazapá,3,42,Mujer,3.0,Familiar no remunerado,1525622.74660271,1,0,0.27742796486022514,True
 Rural,Cordillera,4,33,Mujer,6.0,Cuenta propia,780694.678160918,1,0,0.18207040811870406,True
-Urbana,Amambay,2,43,Mujer,8.0,Inactivo/No aplica,1856693.19826339,0,1,0.7764189761290754,True
+Urbana,Amambay,2,43,Mujer,8.0,Inactivo/No aplica,1856693.19826339,0,1,0.7764189761290753,True
 Rural,Caaguazú,4,28,Mujer,8.0,Inactivo/No aplica,484190.395803185,1,0,0.158124404520876,True
 Rural,Misiones,3,62,Hombre,3.0,Cuenta propia,1031093.05631332,1,0,0.20083030176607375,True
 Urbana,Central,4,25,Hombre,7.0,Empleado/a privado/a,939220.351390925,0,1,0.5665730836904674,True

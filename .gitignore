@@ -1,14 +1,8 @@
-# Entornos virtuales de Python
 .venv/
 venv/
-env/
-
-# Caché de Python
 __pycache__/
-*.py[cod]
-
-# Configuración local de VS Code
-.vscode/
-
-# Archivos temporales de Jupyter
 .ipynb_checkpoints/
+*.bak
+.DS_Store
+# Microdatos originales pesados (se descargan desde el INE, ver README)
+Fase1/data/REG02_EPHC_ANUAL_2025.csv
